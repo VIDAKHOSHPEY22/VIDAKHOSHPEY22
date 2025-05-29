@@ -1,21 +1,20 @@
 <h1 align="center">Hi there, I'm Vida 👋</h1>
 <p align="center">
-  <strong>Creative Full-Stack Developer</strong> | <em>CS50x • AI • Python • Web Certified</em><br/>
-  <code>Python • Django • JavaScript • C# • SQL • AI</code>
+  Passionate Full-Stack Developer | CS50x & AI & Python & Web Certified | Python • Django • JavaScript • C# • SQL
 </p>
 ---
 
 🚀 About Me
 
-I'm a passionate and goal-driven developer with a strong foundation in computer science and hands-on experience building engaging web applications and intelligent systems.
+I'm a self-driven developer with a strong foundation in computer science and a deep love for building web applications and smart systems. From front-end interfaces to back-end logic, I enjoy turning ideas into working, user-friendly products.
 
-🔭 Current Project: A voice-activated birthday greeting app with canvas animations, Lottie effects, and Telegram/email delivery.
+🌱 Currently working on: A smart birthday greeting web app with voice interaction, animation, and Telegram/email integration.
 
-📜 Certified in:
+🎓 Certified in:
 
-CS50x – Introduction to Computer Science
+CS50x
 
-CS50’s AI with Python
+CS50’s Introduction to Artificial Intelligence with Python
 
 CS50’s Web Programming with Python and JavaScript
 
@@ -24,71 +23,57 @@ CS50’s Introduction to Programming with Python
 Google Digital Marketing
 
 
-🌱 Exploring: Machine Learning, React, Tailwind CSS, and full-stack app scalability.
+🔭 Exploring: Machine Learning, Backend APIs, UI/UX in React, and creative coding projects.
 
-🎯 Goal: To become a top-tier full-stack developer and build projects that solve real-world problems with creative code.
+💡 Goal: To become a professional full-stack developer and contribute to meaningful open-source and AI-driven projects.
 
 
 
 ---
 
-🛠️ Tech Stack
+🛠 Languages and Tools
 
-Languages: Python, JavaScript, C#, HTML, CSS, SQL
-
-Frameworks & Libraries: Django, Flask, Bootstrap, .NET (Beginner), Canvas API, Lottie
-
-Tools & Platforms: Git, GitHub, VSCode, Heroku, SQLite, PostgreSQL
-
-Other Interests: AI/ML with Python, Natural Language Processing (NLP), UI/UX Principles
-
-Currently Learning: React, Tailwind CSS
-
-
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+</p>
 ---
 
 💼 Featured Projects
 
 🎂 Birthday Greeting Web App
 
-Tech: Django, HTML, CSS, JavaScript, Lottie, Canvas, Web Speech API
-An interactive birthday greeting platform with animated cake, voice-controlled candle blowing, and Telegram/email messaging.
-🔗 Live Demo (Front-End Only): Coming Soon • 📂 Source Code
+Tech: HTML, CSS, JavaScript, Django, Canvas, Lottie, Voice Recognition
+A personalized birthday site with animated cake, voice interaction, celebratory effects, and a unique greeting card system with Telegram/email notifications.
+📂 View Project
 
 
 ---
 
-📚 Harvard CS50 Projects
+📚 CS50x & CS50W Projects
 
-Tech: Python, JavaScript, Django, SQL
-Completed projects from CS50x and CS50W including:
-
-Mail client with AJAX
-
-E-commerce store
-
-Social network platform
-
-
-📂 CS50x Projects | 📂 CS50W Projects
+Tech: Python, JavaScript, Django
+Full-stack projects built during Harvard's CS50 Web and CS50x courses, including mail client, e-commerce platform, and network.
+📂 View CS50x Projects
+📂 View CS50W Projects
 
 
 ---
 
-🧠 CS50 AI Projects
+🧠 AI Projects (CS50 AI)
 
-Tech: Python, AI Logic, Search Algorithms
-Built intelligent agents like:
-
-Tic-Tac-Toe bot
-
-Minesweeper AI
-
-Knights Puzzle solver
-
-
-📂 CS50 AI Repo
+Tech: Python, AI Logic, Search Algorithms, Reinforcement Learning
+Projects include Tic-Tac-Toe AI, Minesweeper solver, and Knights Puzzle using logical reasoning.
+📂 View AI Projects
 
 
 ---
@@ -103,19 +88,19 @@ Knights Puzzle solver
 
 ✨ Let's Connect
 
-📧 Email: vviiddaa2@gmail.com
+💌 Email: vviiddaa2@gmail.com
 
 💬 Telegram: @Vida_twin
 
-🌐 Portfolio: Coming Soon
+💼 Portfolio: Coming Soon!
 
-🌍 Based in Iran
+🌍 Location: Iran
 
 
 
 ---
 
-> "Code is not just syntax. It’s how you make people feel when they use what you’ve built." — Vida
+> “Code is not just syntax. It’s how you make people feel when they use what you’ve built.” — Vida
 
 
 
