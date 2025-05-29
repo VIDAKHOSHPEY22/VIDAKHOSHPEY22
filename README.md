@@ -49,13 +49,12 @@ Full-stack projects built during Harvard's CS50 Web and CS50x courses, including
 [📂 View CS50x Projects](https://github.com/VIDAKHOSHPEY22/cs50x)  
 [📂 View CS50W Projects](https://github.com/VIDAKHOSHPEY22/cs50w)
 
-[📂 View CS50P Projects](https://github.com/VIDAKHOSHPEY22/cs50p)
+[📂 View CS50P Projects]
 ---
 
 #### 🧠 AI Projects (CS50 AI)  
 **Tech:** Python, AI Logic, Search Algorithms, Reinforcement Learning  
 Projects include Tic-Tac-Toe AI, Minesweeper solver, and Knights Puzzle using logical reasoning.  
-[📂 View Repository](https://github.com/VIDAKHOSHPEY22/cs50ai)
 
 ---
 
