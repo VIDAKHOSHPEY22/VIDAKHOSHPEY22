@@ -32,8 +32,8 @@ I'm a self-taught developer with a strong foundation in computer science and a d
 
 | 👩‍💻 Languages            | 🧩 Frameworks & Libraries      | 🛠️ Tools & Platforms         | 🎨 Design & Animation          |
 |--------------------------|-------------------------------|------------------------------|-------------------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Django, Flask                 | Git & GitHub, Heroku          | Lottie, Canvas API            |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Bootstrap, Learning React , - 🧪 Experimented with: Next.js, Angular, jQuery, Alpine.js during frontend learning sessions    | VSCode, SQLite, PostgreSQL    | Responsive Web Design, Tailwind CSS |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Django, Flask                 | Git & GitHub, Heroku , Docker         | Lottie, Canvas API            |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Bootstrap, Learning React , - 🧪 Experimented with: Next.js, Angular, jQuery, Alpine.js , Node.js during frontend learning sessions    | VSCode, SQLite, PostgreSQL    | Responsive Web Design, Tailwind CSS |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)     | .NET (beginner)               |                                |                               |
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)     |                               |                                |                               |
 | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)        |                               |                                |                               |
