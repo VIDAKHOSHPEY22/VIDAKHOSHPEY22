@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vida 👋</h1>
 <p align="center">
-  Passionate Full-Stack Developer | CS50x & AI Certified | Python • Django • JavaScript • C#
+  Passionate Full-Stack Developer | CS50x & AI & Python & Web Certified | Python • Django • JavaScript • C# • SQL
 </p>
 
 ---
