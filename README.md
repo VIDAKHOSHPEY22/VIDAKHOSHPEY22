@@ -1,111 +1,73 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=✨+Hello%2C+I'm+Vida;Full-Stack+Developer;AI+Explorer;Digital+Creator" alt="Animated Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=5865F2&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Vida;Full-Stack+Developer;AI+%26+Web+Enthusiast;From+Code+to+Creativity" alt="Typing Animation"/>
 </div>
 
 <p align="center">
-  <em>Crafting digital experiences with code magic ✨</em>
+  <em>Building digital experiences with clean code and creative solutions</em>
 </p>
 
+---
+
+## 🛠️ **Tech Stack**
+
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"/>
-</div>
 
----
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🧙‍♀️ **My Wizard's Toolkit**
+**Frameworks & Libraries**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-
-🔮 **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-✨ **Frameworks**  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-🛠️ **Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 **Magical Projects**
+## 🌟 **Featured Projects**
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
+### 🎉 Interactive Birthday App
+**Technologies:** Django, JavaScript, Web Animations API  
+A personalized celebration experience with animations and notifications  
+🔗 [View Project](https://github.com/VIDAKHOSHPEY22/birthday)
 
-### 🎂 **Interactive Birthday Portal**
-> *A voice-controlled celebration experience*  
-- Canvas animations & Lottie magic  
-- Telegram/email notification spells  
-- Responsive enchantments  
-🔗 [Explore the Magic](https://github.com/VIDAKHOSHPEY22/birthday)
+### 📚 Harvard CS50 Projects
+**Includes:** Web applications, AI solutions, and algorithms  
+📂 [CS50x](https://github.com/VIDAKHOSHPEY22/cs50x) • [CS50W](https://github.com/VIDAKHOSHPEY22/cs50w) • [CS50AI](https://github.com/VIDAKHOSHPEY22/CS50AI)
 
-### 📚 **CS50 Wizardry Collection**
-> *Harvard's magical coding curriculum*  
-- E-commerce potions  
-- Social network spells  
-- Algorithmic incantations  
-🔗 [CS50x Spells](https://github.com/VIDAKHOSHPEY22/cs50x) | [Web Magic](https://github.com/VIDAKHOSHPEY22/cs50w)
+### 🤖 AI Experiments
+**Features:** Game-playing AI, puzzle solvers, and machine learning models  
+🔗 [Explore AI Projects](https://github.com/VIDAKHOSHPEY22/CS50AI)
 
-### 🤖 **AI Familiar Projects**
-> *Intelligent companions in code*  
-- Game-playing spirits  
-- Puzzle-solving entities  
-- Machine learning charms  
-🔗 [AI Arcana](https://github.com/VIDAKHOSHPEY22/CS50AI)
+---
 
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&theme=default&hide_border=true"/>
 </div>
 
 ---
 
-## 📜 **Code Chronicles**
+## 📬 **Let's Connect**
 
 <div align="center">
   
-```python
-def vida_developer():
-    skills = ["problem_solving", "creativity", "continuous_learning"]
-    while True:
-        code = craft_delightful_experiences()
-        if code.contains_magic:
-            share_with_world()
-```
+[![Email](https://img.shields.io/badge/Email-vviiddaa2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vviiddaa2@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@Vida__twin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vida_twin)
+[![GitHub](https://img.shields.io/badge/GitHub-VIDAKHOSHPEY22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIDAKHOSHPEY22)
 
-</div>
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&theme=radical&hide_title=true&hide_border=true&bg_color=00000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
-
-</div>
-
----
-
-## 📬 **Send an Owl**
-
-<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-
-[![Email](https://img.shields.io/badge/-vviiddaa2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vviiddaa2@gmail.com)
-[![Telegram](https://img.shields.io/badge/-@Vida__twin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vida_twin)
-[![Portfolio](https://img.shields.io/badge/-Coming_Soon-FFD700?style=for-the-badge)]()
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HU7JI1nzATlo4A8/giphy.gif" width="120"/>
 </div>
 
 <p align="center">
-  <em>"Making the digital world a little more magical, one commit at a time"</em> ✨
+  <em>Open to collaborations and new opportunities!</em>
 </p>
