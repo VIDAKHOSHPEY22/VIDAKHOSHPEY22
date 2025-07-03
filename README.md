@@ -8,16 +8,18 @@
 
 ---
 
-## 🚀 Programming Skills with Progress Bars
+## 💻 Programming Skills
 
-| Language     | Proficiency |
-|--------------|-------------|
-| Python 🐍     | <div style="width:100%; background:#eee;"><div style="width:90%; background:#FF66B2; color:white; padding:2px 8px;">Advanced (90%)</div></div> |
-| JavaScript ✨ | <div style="width:100%; background:#eee;"><div style="width:85%; background:#FF9E80; color:white; padding:2px 8px;">Advanced (85%)</div></div> |
-| HTML5 🧱     | <div style="width:100%; background:#eee;"><div style="width:95%; background:#FF7EB9; color:white; padding:2px 8px;">Expert (95%)</div></div> |
-| CSS3 🎨      | <div style="width:100%; background:#eee;"><div style="width:85%; background:#D65DB1; color:white; padding:2px 8px;">Advanced (85%)</div></div> |
-| C 🧠         | <div style="width:100%; background:#eee;"><div style="width:60%; background:#FF7096; color:white; padding:2px 8px;">Intermediate (60%)</div></div> |
-| SQL 🗃️       | <div style="width:100%; background:#eee;"><div style="width:65%; background:#FFA3C0; color:white; padding:2px 8px;">Intermediate (65%)</div></div> |
+| Language       | Main Usage                                      | Proficiency |
+|----------------|--------------------------------------------------|-------------|
+| Python 🐍      | Web back-end, automation, AI/ML                  | ⭐⭐⭐⭐☆     |
+| JavaScript ✨   | Dynamic front-end, animations, web apps          | ⭐⭐⭐⭐☆     |
+| HTML5 🧱       | Semantic markup for page structure                | ⭐⭐⭐⭐⭐     |
+| CSS3 🎨        | Styling, layout, responsive design                | ⭐⭐⭐⭐☆     |
+| C 🧠            | CS fundamentals, algorithms, problem-solving      | ⭐⭐⭐☆☆     |
+| SQL 🗃️         | Database queries, logic, project back-ends        | ⭐⭐⭐☆☆     |
+
+> ⭐: Beginner | ⭐⭐: Basic | ⭐⭐⭐: Intermediate | ⭐⭐⭐⭐: Advanced | ⭐⭐⭐⭐⭐: Expert
 
 ---
 
