@@ -8,61 +8,55 @@
 
 ---
 
+## 📊 GitHub Language Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&langs_count=6)](https://github.com/VIDAKHOSHPEY22)  
+*(نمایش زبان‌ها بر اساس کدهای موجود در مخازن عمومی)* 1
+
+---
+
 ## 💻 Programming Languages
 
-| Language     | Description                      | Level        |
-|--------------|----------------------------------|--------------|
-| Python 🐍    | Web backend, AI, scripting       | ⭐⭐⭐⭐☆       |
-| JavaScript ✨| Frontend interactivity, logic    | ⭐⭐⭐⭐☆       |
-| C# ⚙️        | OOP, .NET projects                | ⭐⭐⭐☆☆       |
-| HTML5 🧱      | Structure of web pages           | ⭐⭐⭐⭐⭐       |
-| CSS3 🎨       | Styling, responsive design       | ⭐⭐⭐⭐☆       |
-| SQL 🗃️        | Database querying                | ⭐⭐⭐☆☆       |
+| Language       | Usage Highlights                           | Proficiency |
+|----------------|--------------------------------------------|-------------|
+| JavaScript ✨   | Frontend logic, animations, interactive UI | ⭐⭐⭐⭐☆     |
+| Python 🐍      | Backend, AI/ML, automation scripts         | ⭐⭐⭐⭐☆     |
+| C              | Systems, algorithms, CS50 foundational     | ⭐⭐⭐☆☆     |
+| HTML5 🧱       | Markup for web structure                   | ⭐⭐⭐⭐⭐     |
+| CSS3 🎨        | Styling, responsive and modern layouts     | ⭐⭐⭐⭐☆     |
 
 > ⭐: Beginner | ⭐⭐: Basic | ⭐⭐⭐: Intermediate | ⭐⭐⭐⭐: Advanced | ⭐⭐⭐⭐⭐: Expert
 
 ---
 
-## 📚 Tech Stack
+## 🛠️ Tech & Tools
 
-### 🧠 Frameworks & Libraries
-- **Back-end:** Django, Flask  
-- **Front-end:** React, Bootstrap, jQuery, Alpine.js  
-- **UI Animations:** Lottie, Canvas, Web Animations API
-
-### 🔧 Tools & Platforms
-- Git & GitHub, Docker, SQLite, PostgreSQL  
-- VS Code, Netlify, Heroku, XAMPP  
+**Frameworks & Libs:** Django, Flask, React, Bootstrap, jQuery, Alpine.js, Lottie, Canvas API  
+**Databases:** SQLite, PostgreSQL  
+**Dev Tools:** Git, GitHub, Docker, VS Code, Netlify, Heroku
 
 ---
 
 ## ✨ Featured Projects
 
-### 🎂 **Interactive Birthday App**
-> Django-based site with animated cards, voice-activated candles, Telegram & email notifications  
-🔗 [Live Demo / Code](https://github.com/VIDAKHOSHPEY22/birthday)
+### 🎂 Interactive Birthday App  
+> 🎉 Django + JS + Canvas + Lottie + Voice control  
+> Personalized animated cards with Telegram/email notifications  
+> 🔗 [GitHub Repository](https://github.com/VIDAKHOSHPEY22/birthday)
 
-### 🎓 **CS50x / CS50W / CS50AI Projects**
-> Harvard-certified projects across web, AI, and computer science fundamentals  
-🔗 [CS50x](https://github.com/VIDAKHOSHPEY22/cs50x) • [CS50W](https://github.com/VIDAKHOSHPEY22/cs50w) • [CS50AI](https://github.com/VIDAKHOSHPEY22/CS50AI)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&count_private=true&bg_color=FF66B210&title_color=FF66B2&icon_color=D65DB1&text_color=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=FF66B210&title_color=FF66B2&text_color=000000"/>
-</div>
+### 🎓 CS50 Projects (x, W & AI)  
+> 🧠 From web apps to AI agents  
+> 🔗 [CS50x](https://github.com/VIDAKHOSHPEY22/cs50x) • [CS50W](https://github.com/VIDAKHOSHPEY22/cs50w) • [CS50AI](https://github.com/VIDAKHOSHPEY22/CS50AI)
 
 ---
 
 ## 📬 Let's Connect
 
 <div align="center">
-  [![Email](https://img.shields.io/badge/Email-vviiddaa2@gmail.com-FF66B2?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:vviiddaa2@gmail.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-@Vida__twin-D65DB1?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/Vida_twin)
-  [![GitHub](https://img.shields.io/badge/GitHub-VIDAKHOSHPEY22-FF9FF3?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/VIDAKHOSHPEY22)
+  <a href="mailto:vviiddaa2@gmail.com"><img src="https://img.shields.io/badge/📧 Email-vviiddaa2@gmail.com-FF66B2?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+  <a href="https://t.me/Vida_twin"><img src="https://img.shields.io/badge/💬 Telegram-@Vida__twin-D65DB1?style=for-the-badge&logo=telegram&logoColor=000000"/></a>
+  <a href="https://github.com/VIDAKHOSHPEY22"><img src="https://img.shields.io/badge/🐙 GitHub-@VIDAKHOSHPEY22-FF9FF3?style=for-the-badge&logo=github&logoColor=000000"/></a>
+  <a href="https://www.linkedin.com/in/vida-khoshpey-820124265/"><img src="https://img.shields.io/badge/🔗 LinkedIn-Vida%20Khoshpey-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 </div>
 
 <p align="center">
