@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7B61FF&center=true&width=600&lines=%F0%9F%92%9E%20Hi%20%F0%9F%91%8B%2C%20I'm%20Vida;%F0%9F%92%BB%20Full-Stack%20Developer;%F0%9F%A4%96%20AI%20%26%20Web%20Enthusiast;%F0%9F%8E%80%20From%20Code%20to%20Creativity" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&width=600&lines=%F0%9F%92%9E%20Hi%20%F0%9F%91%8B%2C%20I'm%20Vida;%F0%9F%92%BB%20Full-Stack%20Developer;%F0%9F%A4%96%20AI%20%26%20Web%20Enthusiast;%F0%9F%8E%80%20From%20Code%20to%20Creativity" alt="Typing Animation"/>
 </div>
 
 <p align="center">
-  <em style="color: #7B61FF; font-size: 18px;">Crafting clean, creative, and scalable digital experiences with heart & logic 💡</em>
+  <em style="color: #8A2BE2; font-size: 18px;">Crafting clean, creative, and scalable digital experiences with heart & logic 💡</em>
 </p>
 
 ---
@@ -15,24 +15,26 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ## 💻 Technical Skills
 
-| Language     | Proficiency       | Experience Highlights            |
-|--------------|------------------|----------------------------------|
-| ![Python](https://img.shields.io/badge/Python-85%25-7B61FF?style=flat&logo=python&logoColor=white)      | Advanced   | Web APIs, automation, AI/ML      |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=flat&logo=javascript&logoColor=black) | Advanced   | Dynamic interfaces, SPA logic    |
-| ![HTML5](https://img.shields.io/badge/HTML5-95%25-E34F26?style=flat&logo=html5&logoColor=white)        | Expert     | Semantic markup, accessibility   |
-| ![CSS3](https://img.shields.io/badge/CSS3-85%25-1572B6?style=flat&logo=css3&logoColor=white)            | Advanced   | Responsive design, animations    |
-| ![C](https://img.shields.io/badge/C-60%25-A8B9CC?style=flat&logo=c&logoColor=black)                    | Intermediate| Algorithms, CS50 foundations     |
-| ![SQL](https://img.shields.io/badge/SQL-65%25-4479A1?style=flat&logo=mysql&logoColor=white)            | Intermediate| Data modeling, query optimization|
+| Language       | Main Usage                            | Proficiency         |
+|----------------|-------------------------------------|---------------------|
+| Python 🐍      | Web APIs, automation, AI/ML          | ⭐⭐⭐⭐☆ (Advanced)    |
+| JavaScript ✨  | Dynamic interfaces, SPA logic        | ⭐⭐⭐⭐☆ (Advanced)    |
+| HTML5 🧱       | Semantic markup, accessibility       | ⭐⭐⭐⭐⭐ (Expert)      |
+| CSS3 🎨        | Responsive design, animations        | ⭐⭐⭐⭐☆ (Advanced)    |
+| C 🧠           | Algorithms, CS50 foundations         | ⭐⭐⭐☆☆ (Intermediate)|
+| SQL 🗃️        | Data modeling, query optimization    | ⭐⭐⭐☆☆ (Intermediate)|
 
 ---
 
 ## 🧰 Frameworks & Tools
 
-- **Back-end:** Django, Flask  
-- **Front-end:** React, Bootstrap, Alpine.js, jQuery  
-- **UI & Animations:** Web Animations API, Canvas, Lottie  
-- **Databases:** SQLite, PostgreSQL  
-- **Dev Tools:** Git, GitHub, Docker, VS Code, Netlify, Heroku
+| Category          | Tools / Libraries                                      |
+|-------------------|-------------------------------------------------------|
+| Back-end          | Django, Flask                                         |
+| Front-end         | React, Bootstrap, Alpine.js, jQuery                   |
+| UI & Animations   | Web Animations API, Canvas, Lottie                     |
+| Databases         | SQLite, PostgreSQL                                    |
+| Dev Tools         | Git, GitHub, Docker, VS Code, Netlify, Heroku         |
 
 ---
 
@@ -82,8 +84,8 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=EDE7F6&title_color=7B61FF&icon_color=9E69F0&text_color=333333" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=EDE7F6&title_color=7B61FF&text_color=333333" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=E6E6FA&title_color=8A2BE2&icon_color=BA55D3&text_color=4B0082" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=E6E6FA&title_color=8A2BE2&text_color=4B0082" height="170"/>
 </div>
 
 ---
@@ -91,12 +93,15 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 ## 📬 Connect with Me
 
 <div align="center">
-  <a href="mailto:vviiddaa2@gmail.com"><img src="https://img.shields.io/badge/📧 Email-vviiddaa2@gmail.com-7B61FF?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
-  <a href="https://t.me/Vida_twin"><img src="https://img.shields.io/badge/💬 Telegram-@Vida__twin-9C27B0?style=for-the-badge&logo=telegram&logoColor=ffffff"/></a>
-  <a href="https://github.com/VIDAKHOSHPEY22"><img src="https://img.shields.io/badge/🐙 GitHub-VIDAKHOSHPEY22-673AB7?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
-  <a href="https://www.linkedin.com/in/vida-khoshpey-820124265/"><img src="https://img.shields.io/badge/🔗 LinkedIn-Vida%20Khoshpey-0052CC?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="mailto:vviiddaa2@gmail.com"><img src="https://img.shields.io/badge/📧 Email-vviiddaa2@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
+  <a href="https://t.me/Vida_twin"><img src="https://img.shields.io/badge/💬 Telegram-@Vida__twin-BA55D3?style=for-the-badge&logo=telegram&logoColor=ffffff"/></a>
+  <a href="https://github.com/VIDAKHOSHPEY22"><img src="https://img.shields.io/badge/🐙 GitHub-VIDAKHOSHPEY22-9400D3?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/vida-khoshpey-820124265/"><img src="https://img.shields.io/badge/🔗 LinkedIn-Vida%20Khoshpey-4B0082?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 </div>
 
 ---
 
-### 👋 Let’s build something amazing — together!
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/><br/>
+  <em style="color: #8A2BE2;">"Ready to explore the galaxy of code and creativity!"</em>
+</p>
