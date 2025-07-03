@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7B61FF&center=true&width=500&lines=%F0%9F%92%9E%20Hi%20%F0%9F%91%8B%2C%20I'm%20Vida;%F0%9F%92%BB%20Full-Stack%20Developer;%F0%9F%A4%96%20AI%20%26%20Web%20Enthusiast;%F0%9F%8E%80%20From%20Code%20to%20Creativity" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7B61FF&center=true&width=600&lines=%F0%9F%92%9E%20Hi%20%F0%9F%91%8B%2C%20I'm%20Vida;%F0%9F%92%BB%20Full-Stack%20Developer;%F0%9F%A4%96%20AI%20%26%20Web%20Enthusiast;%F0%9F%8E%80%20From%20Code%20to%20Creativity" alt="Typing Animation"/>
 </div>
 
 <p align="center">
-  <em style="color: #7B61FF;">Crafting clean, creative, and scalable digital experiences with heart & logic 💡</em>
+  <em style="color: #7B61FF; font-size: 18px;">Crafting clean, creative, and scalable digital experiences with heart & logic 💡</em>
 </p>
 
 ---
 
 ## 🚀 About Me
-Passionate full-stack developer with a love for elegant UI, delightful UX, and clever backend logic. I believe code should feel human—smart, intuitive, and inspiring.
+Passionate full-stack developer who believes code is not just syntax but storytelling. I blend creativity and logic to build meaningful digital experiences.
 
 ---
 
@@ -17,14 +17,12 @@ Passionate full-stack developer with a love for elegant UI, delightful UX, and c
 
 | Language     | Proficiency       | Experience Highlights            |
 |--------------|------------------|----------------------------------|
-| **Python** 🐍   | ⭐⭐⭐⭐☆ (Advanced)   | Web APIs, automation, AI/ML      |
-| **JavaScript**✨| ⭐⭐⭐⭐☆ (Advanced)   | Dynamic interfaces, SPA logic    |
-| **HTML5** 🧱    | ⭐⭐⭐⭐⭐ (Expert)     | Semantic markup, accessibility   |
-| **CSS3** 🎨     | ⭐⭐⭐⭐☆ (Advanced)   | Responsive design, animations    |
-| **C** 🧠        | ⭐⭐⭐☆☆ (Intermediate)| Algorithms, CS50 foundations     |
-| **SQL** 🗃️      | ⭐⭐⭐☆☆ (Intermediate)| Data modeling, query optimization|
-
-> ⭐: Beginner • ⭐⭐: Basic • ⭐⭐⭐: Intermediate • ⭐⭐⭐⭐: Advanced • ⭐⭐⭐⭐⭐: Expert
+| ![Python](https://img.shields.io/badge/Python-85%25-7B61FF?style=flat&logo=python&logoColor=white)      | Advanced   | Web APIs, automation, AI/ML      |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=flat&logo=javascript&logoColor=black) | Advanced   | Dynamic interfaces, SPA logic    |
+| ![HTML5](https://img.shields.io/badge/HTML5-95%25-E34F26?style=flat&logo=html5&logoColor=white)        | Expert     | Semantic markup, accessibility   |
+| ![CSS3](https://img.shields.io/badge/CSS3-85%25-1572B6?style=flat&logo=css3&logoColor=white)            | Advanced   | Responsive design, animations    |
+| ![C](https://img.shields.io/badge/C-60%25-A8B9CC?style=flat&logo=c&logoColor=black)                    | Intermediate| Algorithms, CS50 foundations     |
+| ![SQL](https://img.shields.io/badge/SQL-65%25-4479A1?style=flat&logo=mysql&logoColor=white)            | Intermediate| Data modeling, query optimization|
 
 ---
 
@@ -59,6 +57,28 @@ Passionate full-stack developer with a love for elegant UI, delightful UX, and c
 
 ---
 
+## 💡 Fun Facts
+
+- 🎨 I designed my first web animation purely with CSS keyframes.  
+- 🤖 My AI projects started with simple game solvers and grew to complex agents.  
+- ☕ I code best with a cup of chai and some good music in the background.
+
+---
+
+## 📜 Philosophy & How I Work
+
+> "I write code with care, aiming for clarity, creativity, and impact. I believe technology should serve people, inspire joy, and solve real problems."
+
+---
+
+## 💬 Testimonials
+
+> *"Vida is not just a coder, she's a digital artist. Her passion shows in every line of code."*  
+> — Yalda, my twin sister, teammate, and constant supporter  
+> GitHub: [YALDAKHOSHPEY](https://github.com/YALDAKHOSHPEY)
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -79,19 +99,4 @@ Passionate full-stack developer with a love for elegant UI, delightful UX, and c
 
 ---
 
-## 🎯 Currently Learning
-- Django REST Framework & API integrations  
-- Modern React (hooks, context, server components)  
-- AI-powered web experiences (NLP chatbots, model-driven UI)
-
----
-
-## 📚 Interests & Goals
-- Crafting web apps with personality and performance  
-- Experimenting with AI-driven features and interfaces  
-- Contributing to open-source and mentoring fellow devs
-
----
-
-### 👋 Let’s Build Something Amazing!
-I’m always open to new collaborations, idea exchanges, or technical challenges—drop me a message anytime 😊
+### 👋 Let’s build something amazing — together!
