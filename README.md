@@ -3,50 +3,64 @@
 </div>
 
 <p align="center">
-  <em style="color: #000000;">Building seamless digital experiences with clean, scalable code 🎨</em>
+  <em style="color: #000000;">Crafting clean, creative, and scalable digital experiences</em>
 </p>
 
 ---
 
-## 📊 GitHub Language Stats
+## 🚀 Programming Skills with Progress Bars
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&langs_count=6)](https://github.com/VIDAKHOSHPEY22)  
-*(نمایش زبان‌ها بر اساس کدهای موجود در مخازن عمومی)* 1
-
----
-
-## 💻 Programming Languages
-
-| Language       | Usage Highlights                           | Proficiency |
-|----------------|--------------------------------------------|-------------|
-| JavaScript ✨   | Frontend logic, animations, interactive UI | ⭐⭐⭐⭐☆     |
-| Python 🐍      | Backend, AI/ML, automation scripts         | ⭐⭐⭐⭐☆     |
-| C              | Systems, algorithms, CS50 foundational     | ⭐⭐⭐☆☆     |
-| HTML5 🧱       | Markup for web structure                   | ⭐⭐⭐⭐⭐     |
-| CSS3 🎨        | Styling, responsive and modern layouts     | ⭐⭐⭐⭐☆     |
-
-> ⭐: Beginner | ⭐⭐: Basic | ⭐⭐⭐: Intermediate | ⭐⭐⭐⭐: Advanced | ⭐⭐⭐⭐⭐: Expert
+| Language     | Proficiency |
+|--------------|-------------|
+| Python 🐍     | <div style="width:100%; background:#eee;"><div style="width:90%; background:#FF66B2; color:white; padding:2px 8px;">Advanced (90%)</div></div> |
+| JavaScript ✨ | <div style="width:100%; background:#eee;"><div style="width:85%; background:#FF9E80; color:white; padding:2px 8px;">Advanced (85%)</div></div> |
+| HTML5 🧱     | <div style="width:100%; background:#eee;"><div style="width:95%; background:#FF7EB9; color:white; padding:2px 8px;">Expert (95%)</div></div> |
+| CSS3 🎨      | <div style="width:100%; background:#eee;"><div style="width:85%; background:#D65DB1; color:white; padding:2px 8px;">Advanced (85%)</div></div> |
+| C 🧠         | <div style="width:100%; background:#eee;"><div style="width:60%; background:#FF7096; color:white; padding:2px 8px;">Intermediate (60%)</div></div> |
+| SQL 🗃️       | <div style="width:100%; background:#eee;"><div style="width:65%; background:#FFA3C0; color:white; padding:2px 8px;">Intermediate (65%)</div></div> |
 
 ---
 
-## 🛠️ Tech & Tools
+## 🧠 Frameworks & Libraries
 
-**Frameworks & Libs:** Django, Flask, React, Bootstrap, jQuery, Alpine.js, Lottie, Canvas API  
-**Databases:** SQLite, PostgreSQL  
-**Dev Tools:** Git, GitHub, Docker, VS Code, Netlify, Heroku
+| Category            | Tools / Libraries                                      |
+|---------------------|--------------------------------------------------------|
+| **Back-end**        | Django, Flask                                          |
+| **Front-end**       | React, Bootstrap, Alpine.js, jQuery                    |
+| **UI & Animation**  | Web Animations API, Canvas, Lottie                     |
+| **Database**        | SQLite, PostgreSQL                                     |
+| **Dev Tools**       | Git & GitHub, VS Code, Docker, XAMPP, Heroku, Netlify |
 
 ---
 
 ## ✨ Featured Projects
 
-### 🎂 Interactive Birthday App  
-> 🎉 Django + JS + Canvas + Lottie + Voice control  
-> Personalized animated cards with Telegram/email notifications  
-> 🔗 [GitHub Repository](https://github.com/VIDAKHOSHPEY22/birthday)
+### 🎂 Interactive Birthday Greeting App  
+**Tech:** Django, JavaScript, Canvas, Lottie, HTML/CSS  
+**Highlights:**  
+- Voice-activated candle blowing  
+- Animated greeting cards  
+- Email + Telegram notifications  
+🔗 [Repository](https://github.com/VIDAKHOSHPEY22/birthday)
 
-### 🎓 CS50 Projects (x, W & AI)  
-> 🧠 From web apps to AI agents  
-> 🔗 [CS50x](https://github.com/VIDAKHOSHPEY22/cs50x) • [CS50W](https://github.com/VIDAKHOSHPEY22/cs50w) • [CS50AI](https://github.com/VIDAKHOSHPEY22/CS50AI)
+---
+
+### 🎓 Harvard CS50 Projects  
+**Tech:** C, Python, Flask, JavaScript, SQL  
+**Includes:**  
+- Web apps (CS50W)  
+- Foundational algorithms (CS50x)  
+- AI agents (CS50AI)  
+📁 [CS50x](https://github.com/VIDAKHOSHPEY22/cs50x) • [CS50W](https://github.com/VIDAKHOSHPEY22/cs50w) • [CS50AI](https://github.com/VIDAKHOSHPEY22/CS50AI)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&count_private=true&bg_color=FF66B210&title_color=FF66B2&icon_color=D65DB1&text_color=000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=FF66B210&title_color=FF66B2&text_color=000000"/>
+</div>
 
 ---
 
@@ -61,5 +75,5 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="150"/><br/>
-  <em style="color: #000000;">Always learning. Always building. Let's make something great together!</em>
+  <em style="color: #000000;">Always learning. Always building. Let’s build something amazing together!</em>
 </p>
