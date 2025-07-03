@@ -16,25 +16,25 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 ## 💻 Technical Skills
 
 | Language       | Main Usage                            | Proficiency         |
-|----------------|-------------------------------------|---------------------|
-| Python 🐍      | Web APIs, automation, AI/ML          | ⭐⭐⭐⭐☆ (Advanced)    |
-| JavaScript ✨  | Dynamic interfaces, SPA logic        | ⭐⭐⭐⭐☆ (Advanced)    |
-| HTML5 🧱       | Semantic markup, accessibility       | ⭐⭐⭐⭐⭐ (Expert)      |
-| CSS3 🎨        | Responsive design, animations        | ⭐⭐⭐⭐☆ (Advanced)    |
-| C 🧠           | Algorithms, CS50 foundations         | ⭐⭐⭐☆☆ (Intermediate)|
-| SQL 🗃️        | Data modeling, query optimization    | ⭐⭐⭐☆☆ (Intermediate)|
+|----------------|----------------------------------------|---------------------|
+| Python 🐍      | Web APIs, automation, AI/ML            | ⭐⭐⭐⭐☆ (Advanced)    |
+| JavaScript ✨  | Dynamic interfaces, SPA logic          | ⭐⭐⭐⭐☆ (Advanced)    |
+| HTML5 🧱       | Semantic markup, accessibility         | ⭐⭐⭐⭐⭐ (Expert)      |
+| CSS3 🎨        | Responsive design, animations          | ⭐⭐⭐⭐☆ (Advanced)    |
+| C 🧠           | Algorithms, CS50 foundations           | ⭐⭐⭐☆☆ (Intermediate)|
+| SQL 🗃️        | Data modeling, query optimization      | ⭐⭐⭐☆☆ (Intermediate)|
 
 ---
 
 ## 🧰 Frameworks & Tools
 
-| Category          | Tools / Libraries                                      |
+| Category          | Tools / Libraries                                     |
 |-------------------|-------------------------------------------------------|
 | Back-end          | Django, Flask                                         |
 | Front-end         | React, Bootstrap, Alpine.js, jQuery                   |
-| UI & Animations   | Web Animations API, Canvas, Lottie                     |
+| UI & Animations   | Web Animations API, Canvas, Lottie                    |
 | Databases         | SQLite, PostgreSQL                                    |
-| Dev Tools         | Git, GitHub, Docker, VS Code, Netlify, Heroku         |
+| Dev Tools         | Git, GitHub, Docker, VS Code, Netlify, Heroku        |
 
 ---
 
@@ -55,7 +55,7 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 - **CS50x:** Algorithms & system fundamentals  
 - **CS50W:** Full-stack web applications  
 - **CS50AI:** Search algorithms and AI agents  
-📁 [View CS50x](https://github.com/VIDAKHOSHPEY22/cs50x) • [CS50W](https://github.com/VIDAKHOSHPEY22/cs50w) • [CS50AI](https://github.com/VIDAKHOSHPEY22/CS50AI)
+📁 [CS50x](https://github.com/VIDAKHOSHPEY22/cs50x) • [CS50W](https://github.com/VIDAKHOSHPEY22/cs50w) • [CS50AI](https://github.com/VIDAKHOSHPEY22/cs50AI)
 
 ---
 
@@ -97,11 +97,12 @@ Passionate full-stack developer who believes code is not just syntax but storyte
   <a href="https://t.me/Vida_twin"><img src="https://img.shields.io/badge/💬 Telegram-@Vida__twin-BA55D3?style=for-the-badge&logo=telegram&logoColor=ffffff"/></a>
   <a href="https://github.com/VIDAKHOSHPEY22"><img src="https://img.shields.io/badge/🐙 GitHub-VIDAKHOSHPEY22-9400D3?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
   <a href="https://www.linkedin.com/in/vida-khoshpey-820124265/"><img src="https://img.shields.io/badge/🔗 LinkedIn-Vida%20Khoshpey-4B0082?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://dev.to/vidakhoshpey22"><img src="https://img.shields.io/badge/📝 Dev.to-@vidakhoshpey22-000000?style=for-the-badge&logo=dev.to&logoColor=ffffff"/></a>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/><br/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/><br/>
   <em style="color: #8A2BE2;">"Ready to explore the galaxy of code and creativity!"</em>
 </p>
