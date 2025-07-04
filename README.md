@@ -59,7 +59,7 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ---
 
-## 💡 Fun Facts
+##  Fun Facts
 
 - 🎨 I designed my first web animation purely with CSS keyframes.  
 - 🤖 My AI projects started with simple game solvers and grew to complex agents.  
