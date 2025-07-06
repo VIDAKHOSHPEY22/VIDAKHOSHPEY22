@@ -104,10 +104,16 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ---
 
-## 🏆 GitHub Trophy
+## 🧠 Skills Overview
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VIDAKHOSHPEY22&theme=algolia&no-bg=true&no-frame=true&title=Followers,Stars,Commits,PullRequest,Issues,Repositories&margin-w=15&column=6" />
+
+  <img src="https://img.shields.io/badge/Python-90%25-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-85%25-BA55D3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-80%25-7B1FA2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML_CSS-70%25-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-65%25-6A1B9A?style=for-the-badge" />
+
 </div>
 
 ---
