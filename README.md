@@ -98,6 +98,9 @@ Passionate full-stack developer who believes code is not just syntax but storyte
   <a href="https://github.com/VIDAKHOSHPEY22"><img src="https://img.shields.io/badge/🐙 GitHub-VIDAKHOSHPEY22-9400D3?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
   <a href="https://www.linkedin.com/in/vida-khoshpey-820124265/"><img src="https://img.shields.io/badge/🔗 LinkedIn-Vida%20Khoshpey-4B0082?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
   <a href="https://dev.to/vidakhoshpey22"><img src="https://img.shields.io/badge/📝 Dev.to-@vidakhoshpey22-000000?style=for-the-badge&logo=dev.to&logoColor=ffffff"/></a>
+  <a 
+href="https://discord.com/">
+<img src="https://img.shields.io/badge/💻 Discord-@vidatwin23-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff"/></a>
 </div>
 
 ---
