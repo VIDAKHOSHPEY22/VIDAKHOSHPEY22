@@ -85,8 +85,11 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=E6E6FA&title_color=8A2BE2&icon_color=BA55D3&text_color=4B0082&cache_bust=1" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=E6E6FA&title_color=8A2BE2&text_color=4B0082&cache_bust=1" height="170"/>
+  <!-- Total Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=F8F0FF&title_color=7B1FA2&icon_color=BA55D3&text_color=4B0082&cache_bust=1" height="170"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=F8F0FF&title_color=7B1FA2&text_color=4B0082&cache_bust=1" height="170"/>
 
 </div>
 
@@ -94,6 +97,7 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 <div align="center">
 
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VIDAKHOSHPEY22&theme=violet-pulse&hide_border=true&date_format=j%20M%5B%20Y%5D" height="190"/>
 
 </div>
@@ -103,7 +107,7 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 ## 🏆 GitHub Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VIDAKHOSHPEY22&theme=gruvbox&margin-w=10&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VIDAKHOSHPEY22&theme=algolia&no-bg=true&no-frame=true&title=Followers,Stars,Commits,PullRequest,Issues,Repositories&margin-w=15&column=6" />
 </div>
 
 ---
@@ -111,7 +115,7 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/github-contribution-grid-snake.svg" alt="snake eating contributions">
+  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
 </div>
 
 ## 📬 Connect with Me
