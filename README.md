@@ -84,17 +84,35 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=E6E6FA&title_color=8A2BE2&icon_color=BA55D3&text_color=4B0082" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=E6E6FA&title_color=8A2BE2&text_color=4B0082" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=E6E6FA&title_color=8A2BE2&icon_color=BA55D3&text_color=4B0082&cache_bust=1" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=E6E6FA&title_color=8A2BE2&text_color=4B0082&cache_bust=1" height="170"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VIDAKHOSHPEY22&theme=violet-pulse&hide_border=true" height="190"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VIDAKHOSHPEY22&theme=violet-pulse&hide_border=true&date_format=j%20M%5B%20Y%5D" height="190"/>
+
 </div>
 
 ---
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VIDAKHOSHPEY22&theme=gruvbox&margin-w=10&no-frame=true&no-bg=true" />
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/github-contribution-grid-snake.svg" alt="snake eating contributions">
+</div>
 
 ## 📬 Connect with Me
 
