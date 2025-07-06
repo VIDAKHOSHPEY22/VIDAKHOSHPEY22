@@ -88,6 +88,11 @@ Passionate full-stack developer who believes code is not just syntax but storyte
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=E6E6FA&title_color=8A2BE2&text_color=4B0082" height="170"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VIDAKHOSHPEY22&theme=violet-pulse&hide_border=true" height="190"/>
+</div>
 ---
 
 ## 📬 Connect with Me
