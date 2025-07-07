@@ -86,10 +86,10 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 <div align="center">
 
   <!-- Total Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=F8F0FF&title_color=7B1FA2&icon_color=BA55D3&text_color=4B0082&cache_bust=1" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=fff0f9&title_color=ab47bc&icon_color=ec407a&text_color=6a1b9a&cache_bust=1" height="170" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=F8F0FF&title_color=7B1FA2&text_color=4B0082&cache_bust=1" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=fff0f9&title_color=ab47bc&text_color=6a1b9a&cache_bust=1" height="170" />
 
 </div>
 
@@ -98,7 +98,7 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 <div align="center">
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VIDAKHOSHPEY22&theme=violet-pulse&hide_border=true&date_format=j%20M%5B%20Y%5D" height="190"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VIDAKHOSHPEY22&theme=pink-panda&hide_border=true&date_format=j%20M%5B%20Y%5D" height="190" />
 
 </div>
 
