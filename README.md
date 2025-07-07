@@ -154,3 +154,6 @@ href="https://discord.com/">
 > but when I do, they’re legendary." 🐛🔥*
 
 > *"Powered by coffee, chaos, and Ctrl+Z." ☕💻🌀*
+
+> *"When things get weird, I just call Yalda and say:  
+> ‘Come on, let’s build a robot and take over GitHub!’ 🤖👯‍♀️😂💪🏻"*
