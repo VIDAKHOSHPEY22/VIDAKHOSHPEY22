@@ -73,12 +73,49 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ---
 
-## 💬 Testimonials
+## ⚡ Dream Dev Team
 
-> *"Vida is not just a coder, she's a digital artist. Her passion shows in every line of code."*  
-> — Yalda, my twin sister, teammate, and constant supporter  
-> GitHub: [YALDAKHOSHPEY](https://github.com/YALDAKHOSHPEY)
+*"Together we debug, deploy, and dominate!"* 😎💻🚀
 
+---
+
+### 👩‍💻 Vida
+[![Vida's GitHub](https://github.com/VIDAKHOSHPEY22.png?size=150)](https://github.com/VIDAKHOSHPEY22)  
+**Role:** Full-Stack Developer · AI Assistant Creator  
+[GitHub →](https://github.com/VIDAKHOSHPEY22)
+
+---
+
+### 👯‍♀️ Yalda 
+[![Yalda's GitHub](https://github.com/YALDAKHOSHPEY.png?size=150)](https://github.com/YALDAKHOSHPEY)  
+**Role:** Front-End Developer · WordPress Customizer  
+[GitHub →](https://github.com/YALDAKHOSHPEY)
+
+---
+
+### 🎨 Hanzala Baig  
+[![Hanzala's GitHub](https://github.com/wecoded-dev.png?size=150)](https://github.com/wecoded-dev)  
+**Role:** Front-End Developer · UI/UX Tweaker  
+[GitHub →](https://github.com/wecoded-dev)
+
+---
+
+### 🧩 Kelvin  
+[![Kelvin's GitHub](https://github.com/KelvinCode1234.png?size=150)](https://github.com/KelvinCode1234)  
+**Role:** Front-End Engineer · Code Optimizer  
+[GitHub →](https://github.com/KelvinCode1234)
+
+---
+
+## 🧠 Fun Team Facts
+
+- 👯‍♀️ **Vida & Yalda**: Twin power meets twin logic.  
+- 🎨 **Hanzala**: Polishes pixels like a boss.  
+- ⚙️ **Kelvin**: Makes everything run smoother.  
+- ☕ **Team Vibe**: 50% caffeine, 50% chaos, 100% creativity!
+
+> 💬 *When things break, we just say:*  
+> **“Let’s build a robot and take over GitHub!”** 🤖🔥
 ---
 
 ## 📈 GitHub Stats
@@ -156,9 +193,3 @@ href="https://discord.com/">
 > **Vida:**  
 > *"I don’t always write bugs — but when I do, they’re legendary."* 🐛🔥  
 >
-> **Yalda:**  
-> *"Powered by coffee, chaos, and Ctrl+Z."* ☕💻🌀  
->
-> **Vida:**  
-> *"When things get weird, I just call Yalda and say:*  
-> *‘Come on, let’s build a robot and take over GitHub!’"* 🤖👯‍♀️😂💪🏻
