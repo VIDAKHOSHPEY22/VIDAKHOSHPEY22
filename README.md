@@ -141,19 +141,24 @@ href="https://discord.com/">
 
 ## 😼 Meme Vibes
 
-<div align="center">
+**👯‍♀️ Yalda & Vida**
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Serious Cat Coding" />
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700" alt="Serious cat coding" />
+  <br/>
+  <em>"Typing like a legend. Panicking like a human." 😹</em>
+</p>
 
-</div>
-
-> *"Coding at 3AM like I’m saving the world…  
-> but it's just a missing semicolon." 😹*
-
-> *"I don’t always write bugs —  
-> but when I do, they’re legendary." 🐛🔥*
-
-> *"Powered by coffee, chaos, and Ctrl+Z." ☕💻🌀*
-
-> *"When things get weird, I just call Yalda and say:  
-> ‘Come on, let’s build a robot and take over GitHub!’ 🤖👯‍♀️😂💪🏻"*
+> **Yalda:**  
+> *"Coding at 3AM like I’m saving the world...  
+> but it's just a missing semicolon."* 😹  
+>
+> **Vida:**  
+> *"I don’t always write bugs — but when I do, they’re legendary."* 🐛🔥  
+>
+> **Yalda:**  
+> *"Powered by coffee, chaos, and Ctrl+Z."* ☕💻🌀  
+>
+> **Vida:**  
+> *"When things get weird, I just call Yalda and say:*  
+> *‘Come on, let’s build a robot and take over GitHub!’"* 🤖👯‍♀️😂💪🏻
