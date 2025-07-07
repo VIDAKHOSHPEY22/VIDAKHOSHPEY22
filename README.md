@@ -139,7 +139,18 @@ href="https://discord.com/">
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/><br/>
-  <em style="color: #8A2BE2;">"Ready to explore the galaxy of code and creativity!"</em>
-</p>
+## 😼 Meme Vibes
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Serious Cat Coding" />
+
+</div>
+
+> *"Coding at 3AM like I’m saving the world…  
+> but it's just a missing semicolon." 😹*
+
+> *"I don’t always write bugs —  
+> but when I do, they’re legendary." 🐛🔥*
+
+> *"Powered by coffee, chaos, and Ctrl+Z." ☕💻🌀*
