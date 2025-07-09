@@ -161,7 +161,7 @@ Passionate full-stack developer who believes code is not just syntax but storyte
   <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
 </div>
 
-## 📬 Connect with Me
+## 📬 Connect with Me 
 
 <div align="center">
   <a href="mailto:vviiddaa2@gmail.com"><img src="https://img.shields.io/badge/📧 Email-vviiddaa2@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
