@@ -93,25 +93,9 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ---
 
-### 🎨 Hanzala Baig  
-[![Hanzala's GitHub](https://github.com/wecoded-dev.png?size=150)](https://github.com/wecoded-dev)  
-**Role:** Front-End Developer · UI/UX Tweaker  
-[GitHub →](https://github.com/wecoded-dev)
-
----
-
-### 🧩 Kelvin  
-[![Kelvin's GitHub](https://github.com/KelvinCode1234.png?size=150)](https://github.com/KelvinCode1234)  
-**Role:** Front-End Engineer · Code Optimizer  
-[GitHub →](https://github.com/KelvinCode1234)
-
----
-
 ## 🧠 Fun Team Facts
 
 - 👯‍♀️ **Vida & Yalda**: Twin power meets twin logic.  
-- 🎨 **Hanzala**: Polishes pixels like a boss.  
-- ⚙️ **Kelvin**: Makes everything run smoother.  
 - ☕ **Team Vibe**: 50% caffeine, 50% chaos, 100% creativity!
 
 > 💬 *When things break, we just say:*  
