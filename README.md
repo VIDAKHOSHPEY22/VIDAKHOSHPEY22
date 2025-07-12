@@ -156,6 +156,9 @@ Passionate full-stack developer who believes code is not just syntax but storyte
   <a 
 href="https://discord.com/">
 <img src="https://img.shields.io/badge/💻 Discord-@vidatwin23-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff"/></a>
+  <a href="https://www.instagram.com/vida_twin?igsh=MTV0Y2RxeW84ZGUzcA==" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/📸 Instagram-vida__twin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 </div>
 
 ---
