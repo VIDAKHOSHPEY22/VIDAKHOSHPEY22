@@ -179,7 +179,11 @@ href="https://discord.com/">
 >
 > **Vida:**  
 > *"I don’t always write bugs — but when I do, they’re legendary."* 🐛🔥  
->
+
+---
+
+> 💬 *And while we laugh at the chaos…  
+> some of us are quietly building meaning inside the madness.*
 
 ---
 
