@@ -180,3 +180,15 @@ href="https://discord.com/">
 > **Vida:**  
 > *"I don’t always write bugs — but when I do, they’re legendary."* 🐛🔥  
 >
+
+---
+
+## 🧁 Final Bytes
+
+Behind every function I write, there’s a glitchy human with layered logic, deep feels, and a relentless hunger for meaning.  
+I code. I break. I rebuild. And somewhere in between, I laugh too loud and dream too far.
+
+Curious who's behind the commits?  
+🕵️‍♀️ Tap into the core: [The Real Vida — Recipe Included](https://gist.github.com/VIDAKHOSHPEY22/9210ea51bc6a323ae7754229593543b7)
+
+Thanks for decoding a fragment of me 💜
