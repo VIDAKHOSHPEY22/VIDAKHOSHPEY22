@@ -44,15 +44,17 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 Built for the Dev.to Holistic Frontend Challenge  
 → Pure HTML, CSS, and Vanilla JS  
 → 3D planets inspired by NASA visuals  
-→ No frameworks. Just code, cosmos & creativity 🚀  
-🔗 [Check it out](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
+→ No frameworks. Just code, cosmos & creativity 
+
+🔗 [Nebula-Works Repo 🚀](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
 
 ---
 
 ### 🎓 Harvard CS50 Series  
 **Tech:** C · Python · Django · Flask · JavaScript · SQL  
-Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on GitHub.  
-📁 [CS50x](https://github.com/VIDAKHOSHPEY22/cs50x)
+Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on GitHub. 
+
+📁 [CS50x – Harvard Repo 🎓](https://github.com/VIDAKHOSHPEY22/cs50x)
 
 ---
 
