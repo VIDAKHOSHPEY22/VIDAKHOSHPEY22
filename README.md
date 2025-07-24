@@ -46,7 +46,7 @@ Built for the Dev.to Holistic Frontend Challenge
 → 3D planets inspired by NASA visuals  
 → No frameworks. Just code, cosmos & creativity 
 
-🔗 [Nebula-Works Repo 🚀](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
+🔗 [Nebula - Works Repo 🚀](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
 
 ---
 
