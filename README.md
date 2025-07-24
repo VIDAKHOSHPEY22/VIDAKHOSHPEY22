@@ -40,51 +40,32 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ## ✨ Featured Projects
 
-### 🎂 Interactive Birthday Greeting App  
-**Tech:** Django · JavaScript · Canvas · Lottie · HTML/CSS  
-**Highlights:**  
-- Voice-activated candle blowing  
-- Animated birthday cards with charming effects  
-- Telegram & email notifications upon sending  
-🔗 [Explore the Repo](https://github.com/VIDAKHOSHPEY22/birthday)
+### 🌌 Nebula Works – 3D Space Admin Interface  
+Built for the Dev.to Holistic Frontend Challenge  
+→ Pure HTML, CSS, and Vanilla JS  
+→ 3D planets inspired by NASA visuals  
+→ No frameworks. Just code, cosmos & creativity 🚀  
+🔗 [Check it out](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
 
 ---
 
 ### 🎓 Harvard CS50 Series  
-**Tech:** C · Python · Flask · JavaScript · SQL  
-- **CS50x:** Algorithms & system fundamentals  
-- **CS50W:** Full-stack web applications  
-- **CS50AI:** Search algorithms and AI agents  
-📁 [CS50x](https://github.com/VIDAKHOSHPEY22/cs50x) • [CS50W](https://github.com/VIDAKHOSHPEY22/cs50w) • [CS50AI](https://github.com/VIDAKHOSHPEY22/cs50AI)
+**Tech:** C · Python · Django · Flask · JavaScript · SQL  
+Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on GitHub.  
+📁 [CS50x](https://github.com/VIDAKHOSHPEY22/cs50x)
 
 ---
 
-## 📜 Philosophy & How I Work
+## ⚡ Dream Dev Team: The Twins
 
-> "I write code with care, aiming for clarity, creativity, and impact. I believe technology should serve people, inspire joy, and solve real problems."
+<div align="center">
 
----
+| ![Vida's GitHub](https://github.com/VIDAKHOSHPEY22.png?size=100) | ![Yalda's GitHub](https://github.com/YALDAKHOSHPEY.png?size=100) |
+|:--:|:--:|
+| **[Vida](https://github.com/VIDAKHOSHPEY22)**<br/>Full-Stack Developer · AI Builder | **[Yalda](https://github.com/YALDAKHOSHPEY)**<br/>Front-End Developer · WP Customizer |
 
-## ⚡ Dream Dev Team
+</div>
 
-### 👩‍💻 Vida
-[![Vida's GitHub](https://github.com/VIDAKHOSHPEY22.png?size=150)](https://github.com/VIDAKHOSHPEY22)  
-**Role:** Full-Stack Developer · AI Assistant Creator  
-[GitHub →](https://github.com/VIDAKHOSHPEY22)
-
-### 👯‍♀️ Yalda 
-[![Yalda's GitHub](https://github.com/YALDAKHOSHPEY.png?size=150)](https://github.com/YALDAKHOSHPEY)  
-**Role:** Front-End Developer · WordPress Customizer  
-[GitHub →](https://github.com/YALDAKHOSHPEY)
-
----
-
-## 🧠 Fun Team Facts
-
-- 👯‍♀️ **Vida & Yalda**: Twin power meets twin logic.
-
-> 💬 *When things break, we just say:*  
-> **“Let’s build a robot and take over GitHub!”** 🤖🔥
 ---
 
 ## 📈 GitHub Stats
@@ -107,13 +88,6 @@ Passionate full-stack developer who believes code is not just syntax but storyte
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VIDAKHOSHPEY22&theme=pink-panda&hide_border=true&date_format=j%20M%5B%20Y%5D" height="190" />
 
 </div>
-
----
-
-## 🧠 Quick Skills Recap
-
-Python · JavaScript · Django · HTML/CSS · SQL  
-Solid foundation in back-end, front-end, and creative coding.
 
 ---
 
@@ -165,4 +139,3 @@ Solid foundation in back-end, front-end, and creative coding.
   <br/>
   <em>"Typing like a legend. Panicking like a human." 😹</em>
 </p>
-
