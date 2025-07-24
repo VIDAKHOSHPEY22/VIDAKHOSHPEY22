@@ -117,26 +117,43 @@ Solid foundation in back-end, front-end, and creative coding.
 
 ---
 
+## 📬 Connect with Me 
+
+<div align="center">
+
+  <!-- Row 1 -->
+  <a href="mailto:vviiddaa2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vviiddaa2@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/Vida_twin">
+    <img src="https://img.shields.io/badge/Telegram-@Vida__twin-BA55D3?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-@vidatwin23-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <br/>
+
+  <!-- Row 2 -->
+  <a href="https://github.com/VIDAKHOSHPEY22">
+    <img src="https://img.shields.io/badge/GitHub-VIDAKHOSHPEY22-9400D3?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/vidakhoshpey22">
+    <img src="https://img.shields.io/badge/Dev.to-@vidakhoshpey22-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vida-khoshpey-820124265/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vida_Khoshpey-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/vida_twin">
+    <img src="https://img.shields.io/badge/Instagram-vida__twin-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+</div>
+
+---
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
-</div>
-
-## 📬 Connect with Me 
-
-<div align="center">
-  <a href="mailto:vviiddaa2@gmail.com"><img src="https://img.shields.io/badge/📧 Email-vviiddaa2@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
-  <a href="https://t.me/Vida_twin"><img src="https://img.shields.io/badge/💬 Telegram-@Vida__twin-BA55D3?style=for-the-badge&logo=telegram&logoColor=ffffff"/></a>
-  <a href="https://github.com/VIDAKHOSHPEY22"><img src="https://img.shields.io/badge/🐙 GitHub-VIDAKHOSHPEY22-9400D3?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
-  <a href="https://www.linkedin.com/in/vida-khoshpey-820124265/"><img src="https://img.shields.io/badge/🔗 LinkedIn-Vida%20Khoshpey-4B0082?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-  <a href="https://dev.to/vidakhoshpey22"><img src="https://img.shields.io/badge/📝 Dev.to-@vidakhoshpey22-000000?style=for-the-badge&logo=dev.to&logoColor=ffffff"/></a>
-  <a 
-href="https://discord.com/">
-<img src="https://img.shields.io/badge/💻 Discord-@vidatwin23-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff"/></a>
-  <a href="https://www.instagram.com/vida_twin?igsh=MTV0Y2RxeW84ZGUzcA==" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/📸 Instagram-vida__twin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
 </div>
 
 ---
@@ -149,9 +166,3 @@ href="https://discord.com/">
   <em>"Typing like a legend. Panicking like a human." 😹</em>
 </p>
 
----
-
-## 🧁 Final Note
-
-Every line of code I write comes from both logic and emotion — blending structure with soul.  
-Let’s build meaningful things that matter. 💜
