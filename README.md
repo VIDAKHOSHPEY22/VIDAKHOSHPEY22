@@ -56,13 +56,35 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 ---
 
-## ⚡ Dream Dev Team: The Twins
+## ⚡Dream Dev Team: Twins
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 60px; align-items: center; margin-top: 10px;">
 
-| ![Vida's GitHub](https://github.com/VIDAKHOSHPEY22.png?size=100) | ![Yalda's GitHub](https://github.com/YALDAKHOSHPEY.png?size=100) |
-|:--:|:--:|
-| **[Vida](https://github.com/VIDAKHOSHPEY22)**<br/>Full-Stack Developer · AI Builder | **[Yalda](https://github.com/YALDAKHOSHPEY)**<br/>Front-End Developer · WP Customizer |
+  <div style="text-align: center; max-width: 140px;">
+    <a href="https://github.com/VIDAKHOSHPEY22">
+      <img src="https://github.com/VIDAKHOSHPEY22.png?size=140" alt="Vida's GitHub" style="border-radius: 50%; width: 140px; height: 140px; object-fit: cover;" />
+    </a>
+    <h3 style="margin: 10px 0 5px 0;">
+      <a href="https://github.com/VIDAKHOSHPEY22" style="text-decoration: none; color: #8A2BE2;">Vida</a>
+    </h3>
+    <p style="margin: 0; font-size: 14px; color: #555;">
+      Full-Stack Developer<br/>
+      AI Builder
+    </p>
+  </div>
+
+  <div style="text-align: center; max-width: 140px;">
+    <a href="https://github.com/YALDAKHOSHPEY">
+      <img src="https://github.com/YALDAKHOSHPEY.png?size=140" alt="Yalda's GitHub" style="border-radius: 50%; width: 140px; height: 140px; object-fit: cover;" />
+    </a>
+    <h3 style="margin: 10px 0 5px 0;">
+      <a href="https://github.com/YALDAKHOSHPEY" style="text-decoration: none; color: #BA55D3;">Yalda</a>
+    </h3>
+    <p style="margin: 0; font-size: 14px; color: #555;">
+      Front-End Developer<br/>
+      WordPress Customizer
+    </p>
+  </div>
 
 </div>
 
