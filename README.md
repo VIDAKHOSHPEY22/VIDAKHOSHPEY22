@@ -59,14 +59,6 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ---
 
-##  Fun Facts
-
-- 🎨 I designed my first web animation purely with CSS keyframes.  
-- 🤖 My AI projects started with simple game solvers and grew to complex agents.  
-- ☕ I code best with a cup of chai and some good music in the background.
-
----
-
 ## 📜 Philosophy & How I Work
 
 > "I write code with care, aiming for clarity, creativity, and impact. I believe technology should serve people, inspire joy, and solve real problems."
@@ -75,16 +67,10 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ## ⚡ Dream Dev Team
 
-*"Together we debug, deploy, and dominate!"* 😎💻🚀
-
----
-
 ### 👩‍💻 Vida
 [![Vida's GitHub](https://github.com/VIDAKHOSHPEY22.png?size=150)](https://github.com/VIDAKHOSHPEY22)  
 **Role:** Full-Stack Developer · AI Assistant Creator  
 [GitHub →](https://github.com/VIDAKHOSHPEY22)
-
----
 
 ### 👯‍♀️ Yalda 
 [![Yalda's GitHub](https://github.com/YALDAKHOSHPEY.png?size=150)](https://github.com/YALDAKHOSHPEY)  
@@ -95,8 +81,7 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ## 🧠 Fun Team Facts
 
-- 👯‍♀️ **Vida & Yalda**: Twin power meets twin logic.  
-- ☕ **Team Vibe**: 50% caffeine, 50% chaos, 100% creativity!
+- 👯‍♀️ **Vida & Yalda**: Twin power meets twin logic.
 
 > 💬 *When things break, we just say:*  
 > **“Let’s build a robot and take over GitHub!”** 🤖🔥
@@ -125,17 +110,10 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ---
 
-## 🧠 Skills Overview
+## 🧠 Quick Skills Recap
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Python-90%25-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-85%25-BA55D3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Django-80%25-7B1FA2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML_CSS-70%25-9C27B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-65%25-6A1B9A?style=for-the-badge" />
-
-</div>
+Python · JavaScript · Django · HTML/CSS · SQL  
+Solid foundation in back-end, front-end, and creative coding.
 
 ---
 
@@ -165,34 +143,15 @@ href="https://discord.com/">
 
 ## 😼 Meme Vibes
 
-**👯‍♀️ Yalda & Vida**
-
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700" alt="Serious cat coding" />
   <br/>
   <em>"Typing like a legend. Panicking like a human." 😹</em>
 </p>
 
-> **Yalda:**  
-> *"Coding at 3AM like I’m saving the world...  
-> but it's just a missing semicolon."* 😹  
->
-> **Vida:**  
-> *"I don’t always write bugs — but when I do, they’re legendary."* 🐛🔥  
-
 ---
 
-> 💬 *And while we laugh at the chaos…  
-> some of us are quietly building meaning inside the madness.*
+## 🧁 Final Note
 
----
-
-## 🧁 Final Bytes
-
-Behind every function I write, there’s a glitchy human with layered logic, deep feels, and a relentless hunger for meaning.  
-I code. I break. I rebuild. And somewhere in between, I laugh too loud and dream too far.
-
-Curious who's behind the commits?  
-🕵️‍♀️ Tap into the core: [The Real Vida — Recipe Included](https://gist.github.com/VIDAKHOSHPEY22/9210ea51bc6a323ae7754229593543b7)
-
-Thanks for decoding a fragment of me 💜
+Every line of code I write comes from both logic and emotion — blending structure with soul.  
+Let’s build meaningful things that matter. 💜
