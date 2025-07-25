@@ -58,35 +58,72 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 ---
 
-## ⚡Dream Dev Team: Twins
+## 👯 Dream Dev Twins: Vida & Yalda
 
-<div align="center" style="display: flex; justify-content: center; gap: 60px; align-items: center; margin-top: 10px;">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Twin+Developers+Creating+Magic;Double+The+Creativity;Half+The+Bugs;Perfect+Code+Sync" alt="Typing SVG" />
+</p>
 
-  <div style="text-align: center; max-width: 140px;">
-    <a href="https://github.com/VIDAKHOSHPEY22">
-      <img src="https://github.com/VIDAKHOSHPEY22.png?size=140" alt="Vida's GitHub" style="border-radius: 50%; width: 140px; height: 140px; object-fit: cover;" />
-    </a>
-    <h3 style="margin: 10px 0 5px 0;">
-      <a href="https://github.com/VIDAKHOSHPEY22" style="text-decoration: none; color: #8A2BE2;">Vida</a>
-    </h3>
-    <p style="margin: 0; font-size: 14px; color: #555;">
-      Full-Stack Developer<br/>
-      AI Builder
-    </p>
-  </div>
+<div align="center">
 
-  <div style="text-align: center; max-width: 140px;">
-    <a href="https://github.com/YALDAKHOSHPEY">
-      <img src="https://github.com/YALDAKHOSHPEY.png?size=140" alt="Yalda's GitHub" style="border-radius: 50%; width: 140px; height: 140px; object-fit: cover;" />
-    </a>
-    <h3 style="margin: 10px 0 5px 0;">
-      <a href="https://github.com/YALDAKHOSHPEY" style="text-decoration: none; color: #BA55D3;">Yalda</a>
-    </h3>
-    <p style="margin: 0; font-size: 14px; color: #555;">
-      Front-End Developer<br/>
-      WordPress Customizer
-    </p>
-  </div>
+### 🧙‍♀️ Twin Power Developers  
+*"Two minds, one vision - building digital wonders with perfect synchronization"* ✨
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/VIDAKHOSHPEY22">
+        <img src="https://github.com/VIDAKHOSHPEY22.png?size=160" width="160" style="border-radius: 50%; border: 3px solid #8A2BE2; box-shadow: 0 4px 12px rgba(138, 43, 226, 0.3);" alt="Vida"/>
+        <br />
+        <sub>
+          <b style="color: #8A2BE2; font-size: 1.1em;">Vida Khoshpey</b>
+        </sub>
+      </a>
+      <br />
+      <span style="font-size: 0.95em;">
+        🧠 Full-Stack Developer<br/>
+        🤖 AI & ML Specialist<br/>
+        🔗 Blockchain Enthusiast
+      </span>
+      <br /><br />
+      <a href="https://github.com/VIDAKHOSHPEY22">
+        <img src="https://img.shields.io/badge/-Vida's_Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Vida's GitHub"/>
+      </a>
+    </td>
+    <td align="center" width="20">
+      <span style="font-size: 2em;">👯</span>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/YALDAKHOSHPEY">
+        <img src="https://github.com/YALDAKHOSHPEY.png?size=160" width="160" style="border-radius: 50%; border: 3px solid #BA55D3; box-shadow: 0 4px 12px rgba(186, 85, 211, 0.3);" alt="Yalda"/>
+        <br />
+        <sub>
+          <b style="color: #BA55D3; font-size: 1.1em;">Yalda Khoshpey</b>
+        </sub>
+      </a>
+      <br />
+      <span style="font-size: 0.95em;">
+        🎨 UI/UX Specialist<br/>
+        🖌️ WordPress Wizard<br/>
+        🌈 Front-End Artist
+      </span>
+      <br /><br />
+      <a href="https://github.com/YALDAKHOSHPEY">
+        <img src="https://img.shields.io/badge/-Yalda's_Profile-BA55D3?style=for-the-badge&logo=github&logoColor=white" alt="Yalda's GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  
+### 🔮 Our Twin Superpowers
+**Synced Coding** • **Double Debugging** • **Shared Brainstorming** • **Perfect Pair Programming**
+
+[![GitHub Stars](https://img.shields.io/github/stars/VIDAKHOSHPEY22?label=Vida's%20Stars&style=social)](https://github.com/VIDAKHOSHPEY22)
+[![GitHub Stars](https://img.shields.io/github/stars/YALDAKHOSHPEY?label=Yalda's%20Stars&style=social)](https://github.com/YALDAKHOSHPEY)
 
 </div>
 
