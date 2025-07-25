@@ -78,7 +78,7 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
         <img src="https://github.com/VIDAKHOSHPEY22.png?size=200" width="160" style="border-radius: 50%; border: 4px solid #8A2BE2; box-shadow: 0 8px 16px rgba(138, 43, 226, 0.3);" alt="Vida"/>
         <br />
         <sub>
-          <b style="color: #8A2BE2; font-size: 1.2em;">Vida Khoshpey</b>
+          <b style="color: #8A2BE2; font-size: 1.2em;">Vida</b>
         </sub>
       </a>
       <br />
@@ -100,7 +100,7 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
         <img src="https://github.com/YALDAKHOSHPEY.png?size=200" width="160" style="border-radius: 50%; border: 4px solid #BA55D3; box-shadow: 0 8px 16px rgba(186, 85, 211, 0.3);" alt="Yalda"/>
         <br />
         <sub>
-          <b style="color: #BA55D3; font-size: 1.2em;">Yalda Khoshpey</b>
+          <b style="color: #BA55D3; font-size: 1.2em;">Yalda</b>
         </sub>
       </a>
       <br />
