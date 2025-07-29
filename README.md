@@ -149,7 +149,6 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 </div>
 
 ---
-
 ## 🏅 My GitHub Achievements
 
 <p align="center">
@@ -157,14 +156,14 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
   <!-- رتبه در ایران (ثابت دستی از committers.top) -->
   <img src="https://img.shields.io/badge/GitHub%20Rank-89th%20in%20Iran-%237f3fbf?style=flat&logo=github&logoColor=white" alt="GitHub Rank" />
 
-  <!-- کامیت دستی (شخصی‌سازی‌شده) -->
-  <img src="https://img.shields.io/badge/Commits%20(2025)-2400%2B-orange?style=flat&logo=git" alt="Commits" />
+  <!-- کامیت‌های سال 2025 -->
+  <img src="https://img.shields.io/badge/Commits%20(2025)-435%2B-orange?style=flat&logo=git" alt="Commits" />
 
-  <!-- تعداد ریپو -->
-  <img src="https://img.shields.io/badge/Public%20Repos-30%2B-%2300b894?style=flat&logo=github" alt="Public Repos" />
+  <!-- تعداد ریپوهای عمومی -->
+  <img src="https://img.shields.io/badge/Public%20Repos-50%2B-%2300b894?style=flat&logo=github" alt="Public Repos" />
 
-  <!-- زبان برتر در ریپوی خاص -->
-  <img src="https://img.shields.io/github/languages/top/VIDAKHOSHPEY22/Ready-Aim-Learn3?style=flat&logo=python&color=ffc107" alt="Top Language" />
+  <!-- زبان غالب در ریپوی Nebula_Works -->
+  <img src="https://img.shields.io/github/languages/top/VIDAKHOSHPEY22/Nebula_Works?style=flat&logo=python&color=ffc107" alt="Top Language in Nebula_Works" />
 
   <!-- تاریخ عضویت -->
   <img src="https://img.shields.io/badge/GitHub%20User-since%202023-%239b59b6?style=flat&logo=github" alt="GitHub Since" />
