@@ -198,3 +198,7 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
   <br/>
   <em>"Typing like a legend. Panicking like a human." 😹</em>
 </p>
+
+---
+
+![GitHub Rank](https://img.shields.io/badge/GitHub%20Rank-89th%20in%20Iran-%237f3fbf?style=flat&logo=github&logoColor=white)
