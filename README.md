@@ -154,17 +154,20 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 <p align="center">
 
-  <!-- رتبه در committers.top (دستی یا با اسکریپت web-scrape آپدیت میشه) -->
-  <img src="https://img.shields.io/badge/GitHub%20Rank-89th%20in%20Iran-%237f3fbf?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Rank" />
+  <!-- رتبه در ایران (ثابت دستی از committers.top) -->
+  <img src="https://img.shields.io/badge/GitHub%20Rank-89th%20in%20Iran-%237f3fbf?style=flat&logo=github&logoColor=white" alt="GitHub Rank" />
 
-  <!-- تعداد کامیت‌های عمومی سال جاری -->
-  <img src="https://img.shields.io/github/commit-activity/y/VIDAKHOSHPEY22?style=for-the-badge&color=ff6f61&logo=git&logoColor=white" alt="Commits per Year" />
+  <!-- کامیت دستی (شخصی‌سازی‌شده) -->
+  <img src="https://img.shields.io/badge/Commits%20(2025)-2400%2B-orange?style=flat&logo=git" alt="Commits" />
 
-  <!-- تعداد ریپازیتوری‌های پابلیک -->
-  <img src="https://img.shields.io/github/public-repo-count/VIDAKHOSHPEY22?style=for-the-badge&color=blueviolet&logo=github&logoColor=white" alt="Public Repos" />
+  <!-- تعداد ریپو -->
+  <img src="https://img.shields.io/badge/Public%20Repos-30%2B-%2300b894?style=flat&logo=github" alt="Public Repos" />
 
-  <!-- زبان غالب در گیت‌هاب (میان همه ریپوها) -->
-  <img src="https://img.shields.io/github/languages/top/VIDAKHOSHPEY22?style=for-the-badge&color=f39c12&logo=python&logoColor=white" alt="Top Language" />
+  <!-- زبان برتر در ریپوی خاص -->
+  <img src="https://img.shields.io/github/languages/top/VIDAKHOSHPEY22/Ready-Aim-Learn3?style=flat&logo=python&color=ffc107" alt="Top Language" />
+
+  <!-- تاریخ عضویت -->
+  <img src="https://img.shields.io/badge/GitHub%20User-since%202023-%239b59b6?style=flat&logo=github" alt="GitHub Since" />
 
 </p>
 
