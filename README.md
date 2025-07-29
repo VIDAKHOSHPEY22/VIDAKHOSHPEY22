@@ -149,23 +149,24 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 </div>
 
 ---
+
 ## 🏅 My GitHub Achievements
 
 <p align="center">
 
-  <!-- رتبه در ایران (ثابت دستی از committers.top) -->
+  <!-- رتبه در ایران -->
   <img src="https://img.shields.io/badge/GitHub%20Rank-89th%20in%20Iran-%237f3fbf?style=flat&logo=github&logoColor=white" alt="GitHub Rank" />
 
-  <!-- کامیت‌های سال 2025 -->
+  <!-- تعداد کامیت‌ها در ۲۰۲۵ -->
   <img src="https://img.shields.io/badge/Commits%20(2025)-435%2B-orange?style=flat&logo=git" alt="Commits" />
 
   <!-- تعداد ریپوهای عمومی -->
   <img src="https://img.shields.io/badge/Public%20Repos-50%2B-%2300b894?style=flat&logo=github" alt="Public Repos" />
 
-  <!-- زبان غالب در ریپوی Nebula_Works -->
-  <img src="https://img.shields.io/github/languages/top/VIDAKHOSHPEY22/Nebula_Works?style=flat&logo=python&color=ffc107" alt="Top Language in Nebula_Works" />
+  <!-- زبان غالب در ریپوی Racing-car-game -->
+  <img src="https://img.shields.io/github/languages/top/VIDAKHOSHPEY22/Racing-car-game?style=flat&logo=python&color=ffc107" alt="Top Language in Racing-car-game" />
 
-  <!-- تاریخ عضویت -->
+  <!-- تاریخ عضویت در گیت‌هاب -->
   <img src="https://img.shields.io/badge/GitHub%20User-since%202023-%239b59b6?style=flat&logo=github" alt="GitHub Since" />
 
 </p>
