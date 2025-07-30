@@ -15,23 +15,19 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ## 🏅 My GitHub Achievements
 
-<table>
-  <tr>
-    <td valign="middle" width="150">
-      <a href="https://user-badge.committers.top/iran/VIDAKHOSHPEY22" target="_blank">
-        <img src="https://user-badge.committers.top/iran/VIDAKHOSHPEY22.svg" alt="Top GitHub Contributor in Iran" width="150" />
-      </a>
-    </td>
-    <td valign="middle" style="padding-left:20px;">
-      <h2 style="margin:0; padding:0; color:#d63031;">
-        💫 Ranked among the best GitHub Coders in 🇮🇷 Iran
-      </h2>
-      <p style="margin:6px 0 0 0; font-size:1.1rem; color:#2d3436;">
-        Proudly building with passion, purpose, and Persian power 💻
-      </p>
-    </td>
-  </tr>
-</table>
+<h2 align="center" style="color:#d63031;">
+  💫 Ranked among the best GitHub Coders in 🇮🇷 Iran
+</h2>
+
+<p align="center">
+  <a href="https://user-badge.committers.top/iran/VIDAKHOSHPEY22" target="_blank">
+    <img src="https://user-badge.committers.top/iran/VIDAKHOSHPEY22.svg" alt="Top GitHub Contributor in Iran" width="160" style="vertical-align: middle;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-size:1.2rem; color:#2d3436; vertical-align: middle;">
+    Proudly building with passion, purpose, and Persian power 💻
+  </span>
+</p>
 
 ---
 
