@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Maze Style Animation 🧩
 
 on:
   schedule:
@@ -12,18 +12,23 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: 📥 Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: 🎨 Generate Maze Animation
         uses: Platane/snk@v3
         with:
           github_user_name: VIDAKHOSHPEY22
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-maze.svg
+            dist/github-contribution-maze-dark.svg
+          # این تم حالت هزارتویی می‌سازه
+          # رنگ‌ها و حرکات رو خاص کن
+          color_snake: "#ff69b4"
+          color_dots: "#ffe0f0,#ffc0cb,#ffb6c1,#ff69b4,#ff1493"
+          background: "#fff0f9"
 
-      - name: Push to output branch
+      - name: 🚀 Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
