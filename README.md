@@ -149,24 +149,25 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 </div>
 
 ---
-
 ## 🏅 My GitHub Achievements
 
 <p align="center">
 
-  <!-- رتبه در ایران -->
-  <img src="https://img.shields.io/badge/GitHub%20Rank-89th%20in%20Iran-%237f3fbf?style=flat&logo=github&logoColor=white" alt="GitHub Rank" />
+  <!-- Ranking in Iran -->
+  <a href="https://user-badge.committers.top/iran/VIDAKHOSHPEY22">
+    <img src="https://user-badge.committers.top/iran/VIDAKHOSHPEY22.svg" alt="Committers Top Badge"/>
+  </a>
 
-  <!-- تعداد کامیت‌ها در ۲۰۲۵ -->
+  <!-- Commits in 2025 -->
   <img src="https://img.shields.io/badge/Commits%20(2025)-435%2B-orange?style=flat&logo=git" alt="Commits" />
 
-  <!-- تعداد ریپوهای عمومی -->
+  <!-- Public Repositories -->
   <img src="https://img.shields.io/badge/Public%20Repos-50%2B-%2300b894?style=flat&logo=github" alt="Public Repos" />
 
-  <!-- زبان غالب در ریپوی Racing-car-game -->
+  <!-- Top Language in Racing-car-game -->
   <img src="https://img.shields.io/github/languages/top/VIDAKHOSHPEY22/Racing-car-game?style=flat&logo=python&color=ffc107" alt="Top Language in Racing-car-game" />
 
-  <!-- تاریخ عضویت در گیت‌هاب -->
+  <!-- GitHub Join Date -->
   <img src="https://img.shields.io/badge/GitHub%20User-since%202023-%239b59b6?style=flat&logo=github" alt="GitHub Since" />
 
 </p>
