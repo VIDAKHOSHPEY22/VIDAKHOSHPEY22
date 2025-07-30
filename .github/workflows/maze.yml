@@ -2,7 +2,7 @@ name: Generate Maze
 
 on:
   schedule:
-    - cron: "0 1 * * *"  # هر روز ساعت 01:00 UTC اجرا بشه
+    - cron: "0 1 * * *"  # اجرا هر روز ساعت 01:00 UTC
   workflow_dispatch:
   push:
     branches: [main]
@@ -22,17 +22,17 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests svgwrite
-          mkdir -p dist
+          mkdir -p .github/dist
 
       - name: Generate Maze
         env:
           GITHUB_USERNAME: VIDAKHOSHPEY22
-        run: python maze/generate_maze.py
+        run: python .github/maze/generate_maze.py
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .github/dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
