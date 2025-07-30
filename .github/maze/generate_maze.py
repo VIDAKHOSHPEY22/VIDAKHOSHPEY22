@@ -14,6 +14,7 @@ def fetch_contributions(username):
     return data
 
 def generate_svg(contributions, filename):
+    os.makedirs(os.path.dirname(filename), exist_ok=True)  # ایجاد پوشه در صورت نبود
     dwg = svgwrite.Drawing(filename, size=("800px", "120px"))
     x = 10
     y = 10
@@ -31,5 +32,5 @@ def generate_svg(contributions, filename):
 
 if __name__ == "__main__":
     data = fetch_contributions(USERNAME)
-    output_path = ".github/dist/github-contribution-maze.svg"
+    output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "dist", "github-contribution-maze.svg"))
     generate_svg(data, output_path)
