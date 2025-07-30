@@ -13,6 +13,28 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ---
 
+## 🏅 My GitHub Achievements
+
+<table>
+  <tr>
+    <td valign="middle" width="150">
+      <a href="https://user-badge.committers.top/iran/VIDAKHOSHPEY22" target="_blank">
+        <img src="https://user-badge.committers.top/iran/VIDAKHOSHPEY22.svg" alt="Top GitHub Contributor in Iran" width="150" />
+      </a>
+    </td>
+    <td valign="middle" style="padding-left:20px;">
+      <h2 style="margin:0; padding:0; color:#d63031;">
+        💫 Ranked among the best GitHub Coders in 🇮🇷 Iran
+      </h2>
+      <p style="margin:6px 0 0 0; font-size:1.1rem; color:#2d3436;">
+        Proudly building with passion, purpose, and Persian power 💻
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 💻 Technical Skills
 
 | Language       | Main Usage                            | Proficiency         |
@@ -147,30 +169,6 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VIDAKHOSHPEY22&theme=pink-panda&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" style="height: 190px; border-radius: 15px; box-shadow: 0 4px 12px rgba(186,85,211,0.3);" />
 
 </div>
-
----
-## 🏅 My GitHub Achievements
-
-<p align="center">
-
-  <!-- Ranking in Iran -->
-  <a href="https://user-badge.committers.top/iran/VIDAKHOSHPEY22">
-    <img src="https://user-badge.committers.top/iran/VIDAKHOSHPEY22.svg" alt="Committers Top Badge"/>
-  </a>
-
-  <!-- Commits in 2025 -->
-  <img src="https://img.shields.io/badge/Commits%20(2025)-435%2B-orange?style=flat&logo=git" alt="Commits" />
-
-  <!-- Public Repositories -->
-  <img src="https://img.shields.io/badge/Public%20Repos-50%2B-%2300b894?style=flat&logo=github" alt="Public Repos" />
-
-  <!-- Top Language in Racing-car-game -->
-  <img src="https://img.shields.io/github/languages/top/VIDAKHOSHPEY22/Racing-car-game?style=flat&logo=python&color=ffc107" alt="Top Language in Racing-car-game" />
-
-  <!-- GitHub Join Date -->
-  <img src="https://img.shields.io/badge/GitHub%20User-since%202023-%239b59b6?style=flat&logo=github" alt="GitHub Since" />
-
-</p>
 
 ---
 
