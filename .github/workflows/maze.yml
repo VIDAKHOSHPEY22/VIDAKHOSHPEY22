@@ -1,0 +1,38 @@
+name: Generate Maze
+
+on:
+  schedule:
+    - cron: "0 1 * * *"  # هر روز ساعت 01:00 UTC اجرا بشه
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate-maze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests svgwrite
+          mkdir -p dist
+
+      - name: Generate Maze
+        env:
+          GITHUB_USERNAME: VIDAKHOSHPEY22
+        run: python maze/generate_maze.py
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
