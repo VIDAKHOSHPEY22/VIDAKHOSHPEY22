@@ -1,4 +1,4 @@
-# maze/generate_maze.py
+# .github/maze/generate_maze.py
 
 import os
 import requests
@@ -31,4 +31,5 @@ def generate_svg(contributions, filename):
 
 if __name__ == "__main__":
     data = fetch_contributions(USERNAME)
-    generate_svg(data, "dist/github-contribution-maze.svg")
+    output_path = ".github/dist/github-contribution-maze.svg"
+    generate_svg(data, output_path)
