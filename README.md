@@ -23,10 +23,6 @@ Passionate full-stack developer who believes code is not just syntax but storyte
   <a href="https://user-badge.committers.top/iran/VIDAKHOSHPEY22" target="_blank">
     <img src="https://user-badge.committers.top/iran/VIDAKHOSHPEY22.svg" alt="Top GitHub Contributor in Iran" width="160" style="vertical-align: middle;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size:1.2rem; color:#2d3436; vertical-align: middle;">
-    Proudly building with passion, purpose, and Persian power 💻
-  </span>
 </p>
 
 ---
