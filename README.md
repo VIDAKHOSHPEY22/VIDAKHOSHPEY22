@@ -13,8 +13,6 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ---
 
-## 🏅 My GitHub Achievements
-
 <h2 align="center" style="color:#d63031;">
   💫 Ranked among the best GitHub Coders in 🇮🇷 Iran
 </h2>
