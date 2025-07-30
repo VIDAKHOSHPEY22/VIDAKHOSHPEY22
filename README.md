@@ -203,6 +203,14 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 ---
 
+## 🧩 Contribution Maze
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/github-contribution-maze.svg" alt="maze style contribution animation" />
+</div>
+
+---
+
 ## 😼 Meme Vibes
 
 <p align="center">
