@@ -18,8 +18,11 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 </h2>
 
 <p align="center">
-  <a href="https://user-badge.committers.top/iran/VIDAKHOSHPEY22" target="_blank">
-    <img src="https://user-badge.committers.top/iran/VIDAKHOSHPEY22.svg" alt="Top GitHub Contributor in Iran" width="160" style="vertical-align: middle;" />
+  <a href="https://committers.top/iran" target="_blank">
+    <img src="https://user-badge.committers.top/iran/VIDAKHOSHPEY22.svg?refresh=1" 
+         alt="Top GitHub Contributor in Iran" 
+         width="160" 
+         style="vertical-align: middle;" />
   </a>
 </p>
 
