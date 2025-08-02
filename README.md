@@ -173,9 +173,6 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
   <a href="mailto:vviiddaa2@gmail.com">
     <img src="https://img.shields.io/badge/Email-vviiddaa2@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/Vida_twin">
-    <img src="https://img.shields.io/badge/Telegram-@Vida__twin-BA55D3?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
   <a href="https://discord.com/">
     <img src="https://img.shields.io/badge/Discord-@vidatwin23-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
