@@ -170,8 +170,8 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 <div align="center">
 
   <!-- Row 1 -->
-  <a href="mailto:vviiddaa2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vviiddaa2@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:vidatwin18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vidatwin18@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://discord.com/">
     <img src="https://img.shields.io/badge/Discord-@vidatwin23-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -179,9 +179,6 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
   <br/>
 
   <!-- Row 2 -->
-  <a href="https://github.com/VIDAKHOSHPEY22">
-    <img src="https://img.shields.io/badge/GitHub-VIDAKHOSHPEY22-9400D3?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://dev.to/vidakhoshpey22">
     <img src="https://img.shields.io/badge/Dev.to-@vidakhoshpey22-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
