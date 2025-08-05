@@ -208,5 +208,3 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
   <em>"Typing like a legend. Panicking like a human." 😹</em>
 </p>
 
-
-[![Support me via Bale](https://img.shields.io/badge/Support--via--Bale-💸-green?style=for-the-badge)](https://ble.ir/pay/VIDAKHOSHPEY22)
