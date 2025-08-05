@@ -1,7 +1,9 @@
-<!--hey guys-->
+
+<!-- Persian Version -->
+
 <div align="center">
-  <a href="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/main/README_FA.md">
-    <img src="https://img.shields.io/badge/View_in_Persian-8A2BE2?style=for-the-badge&logo=google-translate&logoColor=white&label=🇮🇷_Persian_Version" alt="Persian Version"/>
+  <a href="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/main/README_FA.md" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View_in_Persian-8A2BE2?style=for-the-badge&logo=google-translate&logoColor=white" alt="View in Persian" />
   </a>
 </div>
 
