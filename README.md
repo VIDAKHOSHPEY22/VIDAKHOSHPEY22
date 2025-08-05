@@ -211,20 +211,37 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 ---
 ## 💖 Support My Work
 
-Hi there ! Unfortunately, **GitHub Sponsors** is not available in my country.  
-But if you'd like to support my open-source projects and studies, here are a couple of easy ways:
+Hello there! 👋  
+Unfortunately, **GitHub Sponsors** isn't available in my country yet.  
+But if you'd like to support my open-source projects and learning journey, here are a couple of simple and secure ways to do so:
 
 ---
 
 ### 💳 Support via Iranian Bank (BluBank)
 
-If you're inside Iran and would like to support me directly, you can use **BluBank** QR code or the card number below:
+If you're in Iran and want to support me directly, you can use the **BluBank** QR code below or the card number:
 
 <p align="center">
   <img src="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/ccd57e0c0e95d523d1ecc01265392c31d77cf3ba/BluBank_User_QR_1404_4_14_150802.jpg?raw=true" alt="BluBank QR Code" width="250" />
 </p>
 
-**Card Number**: `6219‑8619‑9870‑5742` (BluBank - affiliated with Bank Saman, under the name: Vida Khoshpey)
+**Card Number:**  
+`6219‑8619‑9870‑5742`  
+*(BluBank, affiliated with Bank Saman)*  
+*Account Holder: Vida Khoshpey*
 
 ---
 
+### ₿ Support via Cryptocurrency
+
+If you prefer to support me anonymously or internationally, here are my crypto wallets:
+
+| Coin              | Wallet Address                                   | Quick Link                                                                                                                |
+|-------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **USDT (TRC20)**  | `TBC28jbxtBGytLQdVZjJmf73ULJunvTghT`           | [Send via Trust Wallet](https://link.trustwallet.com/send?coin=195&address=TBC28jbxtBGytLQdVZjJmf73ULJunvTghT&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t) |
+| **Bitcoin (BTC)** | `bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf`   | [Send via Trust Wallet](https://link.trustwallet.com/send?coin=0&address=bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf)        |
+| **Ethereum (ETH)**| `0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795`   | [Send via Trust Wallet](https://link.trustwallet.com/send?coin=60&address=0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795)         |
+
+---
+
+🙏 Thank you from the bottom of my heart for your generosity and support! It truly motivates me to keep learning, coding, and sharing. ❤️
