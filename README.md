@@ -202,23 +202,6 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 </div>
 
 ---
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
-</div>
-
----
-
-## 😼 Meme Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="600" alt="Serious cat coding" />
-  <br/>
-  <em>"Typing like a legend. Panicking like a human." 😹</em>
-</p>
-
----
 
 ## 💖 Support My Work
 
@@ -282,3 +265,10 @@ Here’s where you can send crypto to fuel my work:
 
 🙏 Thank you so much for your generosity!  
 Your support truly fuels my passion to keep creating and sharing. ❤️
+
+---
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+</div>
