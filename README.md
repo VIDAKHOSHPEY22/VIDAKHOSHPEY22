@@ -203,45 +203,72 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 ## 😼 Meme Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="700" alt="Serious cat coding" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="600" alt="Serious cat coding" />
   <br/>
   <em>"Typing like a legend. Panicking like a human." 😹</em>
 </p>
 
 ---
+
 ## 💖 Support My Work
 
 Hello there! 👋  
-Unfortunately, **GitHub Sponsors** isn't available in my country yet.  
-But if you'd like to support my open-source projects and learning journey, here are a couple of simple and secure ways to do so:
+Unfortunately, **GitHub Sponsors** isn’t available in my country yet.  
+But your support means the world to me! Here are some simple and safe ways to fuel my open-source journey and learning adventures:
 
 ---
 
 ### 💳 Support via Iranian Bank (BluBank)
 
-If you're in Iran and want to support me directly, you can use the **BluBank** QR code below or the card number:
+If you're in Iran 🇮🇷 and want to support me directly, you can scan the BluBank QR code below or use the card number:
 
 <p align="center">
-  <img src="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/ccd57e0c0e95d523d1ecc01265392c31d77cf3ba/BluBank_User_QR_1404_4_14_150802.jpg?raw=true" alt="BluBank QR Code" width="250" />
+  <img src="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/ccd57e0c0e95d523d1ecc01265392c31d77cf3ba/BluBank_User_QR_1404_4_14_150802.jpg?raw=true" alt="BluBank QR Code" width="220" />
 </p>
 
-**Card Number:**  
-`6219‑8619‑9870‑5742`  
-*(BluBank, affiliated with Bank Saman)*  
-*Account Holder: Vida Khoshpey*
+<div align="center" style="font-size:1.1em; font-weight:bold; margin-bottom: 1em;">
+  Card Number: <code>6219‑8619‑9870‑5742</code><br/>
+  <small>(BluBank - Bank Saman)<br/>Account Holder: Vida Khoshpey</small>
+</div>
 
 ---
 
 ### ₿ Support via Cryptocurrency
 
-If you prefer to support me anonymously or internationally, here are my crypto wallets:
-
-| Coin              | Wallet Address                                   | Quick Link                                                                                                                |
-|-------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| **USDT (TRC20)**  | `TBC28jbxtBGytLQdVZjJmf73ULJunvTghT`           | [Send via Trust Wallet](https://link.trustwallet.com/send?coin=195&address=TBC28jbxtBGytLQdVZjJmf73ULJunvTghT&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t) |
-| **Bitcoin (BTC)** | `bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf`   | [Send via Trust Wallet](https://link.trustwallet.com/send?coin=0&address=bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf)        |
-| **Ethereum (ETH)**| `0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795`   | [Send via Trust Wallet](https://link.trustwallet.com/send?coin=60&address=0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795)         |
+Prefer anonymous or international support?  
+Here’s where you can send crypto to fuel my work:
 
 ---
 
-🙏 Thank you from the bottom of my heart for your generosity and support! It truly motivates me to keep learning, coding, and sharing. ❤️
+#### USDT (TRC20)  
+📬 **Wallet Address:**  
+`TBC28jbxtBGytLQdVZjJmf73ULJunvTghT`  
+
+🔗 [![Send via Trust Wallet](https://img.shields.io/badge/Send%20via-Trust%20Wallet-4caf50?style=for-the-badge&logo=trustwallet&logoColor=white)](https://link.trustwallet.com/send?coin=195&address=TBC28jbxtBGytLQdVZjJmf73ULJunvTghT&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t)  
+<br>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tether.svg" alt="USDT Logo" width="36" style="vertical-align:middle;" />
+
+---
+
+#### Bitcoin (BTC)  
+📬 **Wallet Address:**  
+`bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf`  
+
+🔗 [![Send via Trust Wallet](https://img.shields.io/badge/Send%20via-Trust%20Wallet-4caf50?style=for-the-badge&logo=trustwallet&logoColor=white)](https://link.trustwallet.com/send?coin=0&address=bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf)  
+<br>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bitcoin.svg" alt="Bitcoin Logo" width="36" style="vertical-align:middle;" />
+
+---
+
+#### Ethereum (ETH)  
+📬 **Wallet Address:**  
+`0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795`  
+
+🔗 [![Send via Trust Wallet](https://img.shields.io/badge/Send%20via-Trust%20Wallet-4caf50?style=for-the-badge&logo=trustwallet&logoColor=white)](https://link.trustwallet.com/send?coin=60&address=0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795)  
+<br>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" alt="Ethereum Logo" width="36" style="vertical-align:middle;" />
+
+---
+
+🙏 Thank you so much for your generosity!  
+Your support truly fuels my passion to keep creating and sharing. ❤️
