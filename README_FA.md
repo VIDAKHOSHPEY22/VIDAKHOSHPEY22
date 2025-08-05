@@ -1,19 +1,16 @@
-<!--hey guys-->
+
+<!-- English Version -->
+
 <div align="center">
-  <a href="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/main/README_FA.md">
-    <img src="https://img.shields.io/badge/View_in_Persian-8A2BE2?style=for-the-badge&logo=google-translate&logoColor=white&label=🇮🇷_Persian_Version" alt="Persian Version"/>
+  <a href="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/main/README.md" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View_in_English-1E90FF?style=for-the-badge&logo=google-translate&logoColor=white" alt="View in English" />
   </a>
 </div>
 
-<!-- English content starts here -->
-
-<!-- سلام دوستان -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&width=600&lines=%F0%9F%92%9E%20سلام%20%F0%9F%91%8B%20،%20من%20ویدا%20هستم;%F0%9F%92%BB%20توسعه‌دهنده%20فول‌استک;%F0%9F%A4%96%20علاقه‌مند%20به%20هوش%20مصنوعی%20و%20وب;%F0%9F%8E%80%20از%20کد%20تا%20خلاقیت" alt="انیمیشن تایپ"/>
-</div>
-
-<p align="center">
-  <em style="color: #8A2BE2; font-size: 18px;">خالق تجربیات دیجیتالی تمیز، خلاقانه و مقیاس‌پذیر با قلب و منطق 💡</em>
+<p align="center" style="margin-top: 1em;">
+  <em style="color: #8A2BE2; font-size: 18px;">
+    خالق تجربیات دیجیتالی تمیز، خلاقانه و مقیاس‌پذیر با قلب و منطق 💡
+  </em>
 </p>
 
 ---
@@ -83,10 +80,6 @@
 ---
 
 # 👯 دوقلوهای رویایی توسعه: ویدا و یلدا
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=توسعه‌دهندگان%20دوقلو%20و%20خلق%20شگفتی;دو%20برابر%20خلاقیت;نصف%20ایرادها;همگام‌سازی%20کامل%20کد" alt="SVG تایپ شونده" />
-</p>
 
 <div align="center">
 
