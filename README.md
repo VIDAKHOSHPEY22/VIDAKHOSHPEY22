@@ -1,5 +1,13 @@
 <!--hey guys-->
 <div align="center">
+  <a href="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/main/README_FA.md">
+    <img src="https://img.shields.io/badge/View_in_Persian-8A2BE2?style=for-the-badge&logo=google-translate&logoColor=white&label=🇮🇷_Persian_Version" alt="Persian Version"/>
+  </a>
+</div>
+
+<!-- English content starts here -->
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&width=600&lines=%F0%9F%92%9E%20Hi%20%F0%9F%91%8B%2C%20I'm%20Vida;%F0%9F%92%BB%20Full-Stack%20Developer;%F0%9F%A4%96%20AI%20%26%20Web%20Enthusiast;%F0%9F%8E%80%20From%20Code%20to%20Creativity" alt="Typing Animation"/>
 </div>
 
