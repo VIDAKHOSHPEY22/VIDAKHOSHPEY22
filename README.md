@@ -208,3 +208,23 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
   <em>"Typing like a legend. Panicking like a human." 😹</em>
 </p>
 
+---
+## 💖 Support My Work
+
+Hi there ! Unfortunately, **GitHub Sponsors** is not available in my country.  
+But if you'd like to support my open-source projects and studies, here are a couple of easy ways:
+
+---
+
+### 💳 Support via Iranian Bank (BluBank)
+
+If you're inside Iran and would like to support me directly, you can use **BluBank** QR code or the card number below:
+
+<p align="center">
+  <img src="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/ccd57e0c0e95d523d1ecc01265392c31d77cf3ba/BluBank_User_QR_1404_4_14_150802.jpg?raw=true" alt="BluBank QR Code" width="250" />
+</p>
+
+**Card Number**: `6219‑8619‑9870‑5742` (BluBank - affiliated with Bank Saman, under the name: Vida Khoshpey)
+
+---
+
