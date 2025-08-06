@@ -2,10 +2,10 @@
 <!-- Persian Version -->
 
 <div align="center">
-  <a href="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/main/README_FA.md" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View_in_Persian-8A2BE2?style=for-the-badge&logo=google-translate&logoColor=white" alt="View in Persian" />
+  <a href="README.FA.md">
+    <img src="https://img.shields.io/badge/🇮🇷 فارسی-198754?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Persian Version">
   </a>
-</div>
+  
 
 <!-- English content starts here -->
 
