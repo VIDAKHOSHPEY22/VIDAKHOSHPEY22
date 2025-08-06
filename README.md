@@ -6,6 +6,8 @@
     <img src="https://img.shields.io/badge/🇮🇷 فارسی-198754?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Persian Version">
   </a>
   
+---
+
 
 <!-- English content starts here -->
 
