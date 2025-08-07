@@ -273,13 +273,6 @@ Here’s where you can send crypto to fuel my work:
 Your support truly fuels my passion to keep creating and sharing. ❤️
 
 ---
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
-</div>
-
----
 
 ## 👾 Cute Maze
 
