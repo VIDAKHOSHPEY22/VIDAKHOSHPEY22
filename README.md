@@ -175,6 +175,10 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 </div>
 
+## 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=VIDAKHOSHPEY22&theme=gruvbox&no-bg=true&no-frame=true&margin-w=10&column=6&title=MultiLanguage,Repositories,Commit,Stars,PullRequest,Issue)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## 📬 Connect with Me 
