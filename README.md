@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> About Me  
 Passionate full-stack developer who believes code is not just syntax but storytelling. I blend creativity and logic to build meaningful digital experiences.
 
 ---
