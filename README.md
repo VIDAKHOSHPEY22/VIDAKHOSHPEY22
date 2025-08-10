@@ -1,13 +1,16 @@
 
 <!-- Persian Version -->
+  <p align="center">👇🏻ترجمه به فارسی </p>
 
 <div align="center">
   <a href="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/730f591a844a43ea928fb2b45cd8ae109517e4be/README_FA.md">
-    <img src="https://img.shields.io/badge/🇮🇷 فارسی-198754?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Persian Version">
+    <img src="https://img.shields.io/badge/🇮🇷 Persian-198754?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Persian Version">
   </a>
   
 ---
+![Profile views](https://komarev.com/ghpvc/?username=VIDAKHOSHPEY22&label=Profile%20Views&color=8e44ad&style=for-the-badge)
 
+---
 
 <!-- English content starts here -->
 
