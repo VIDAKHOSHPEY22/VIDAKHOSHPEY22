@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Badge پروفایل  ویو -->
+  <!-- Badge پروفایل ویو -->
   <img src="https://komarev.com/ghpvc/?username=VIDAKHOSHPEY22&label=Profile%20Views&color=8e44ad&style=for-the-badge" alt="Profile views">
 </p>
 
