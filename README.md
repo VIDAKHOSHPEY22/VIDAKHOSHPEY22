@@ -83,13 +83,17 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 🔗 [Live Demo](https://ready-aim-learn.onrender.com)
 🔗 [Repository](https://github.com/Gemoriel/Ready-Aim-Learn.git) *Private*
 
+---
+
 ### 🌌 Nebula Works – 3D Space Admin Interface  
 Built for the Dev.to Holistic Frontend Challenge  
 → Pure HTML, CSS, and Vanilla JS  
 → 3D planets inspired by NASA visuals  
 → No frameworks. Just code, cosmos & creativity 
 
+🔗 [Live Demo](https://vidakhoshpey22.github.io/Nebula-Works)
 🔗 [Nebula - Works Repo 🚀](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
+
 
 ---
 
@@ -103,7 +107,21 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 ## 🏢 Organizations & Collaborations
 
-Active contributor and member of **Gemoriel** organization with multiple private and public repositories showcasing collaborative development projects and organizational work.
+Active contributor and team member across multiple organizations:
+
+### 🔬 SmartTwinBKU
+**Focus:** Digital Twin technology, IoT solutions, and smart systems development
+🔗 [https://github.com/SmartTwinBKU](https://github.com/SmartTwinBKU)
+
+### 🎨 Q-Devnyx-Design  
+**Focus:** UI/UX design, frontend development, and creative digital solutions
+🔗 [https://github.com/Q-Devnyx-Design](https://github.com/Q-Devnyx-Design)
+
+### 💼 Gemoriel
+**Focus:** Full-stack development, web applications, and collaborative projects
+🔗 [https://github.com/Gemoriel](https://github.com/Gemoriel)
+
+*Explore my collaborative work and organizational projects through these GitHub organizations*
 
 ---
 
