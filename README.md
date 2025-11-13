@@ -74,6 +74,15 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 ## ✨ Featured Projects
 
+### 🎯 Ready Aim Learn - Django Learning Platform
+**Tech:** Django · PostgreSQL · HTML · CSS · JavaScript
+→ Comprehensive learning platform built with Django
+→ Deployed on Render with live domain
+→ Private repository under Gemoriel organization
+
+🔗 [Live Demo](https://ready-aim-learn.onrender.com)
+🔗 [Repository](https://github.com/Gemoriel/Ready-Aim-Learn.git) *Private*
+
 ### 🌌 Nebula Works – 3D Space Admin Interface  
 Built for the Dev.to Holistic Frontend Challenge  
 → Pure HTML, CSS, and Vanilla JS  
@@ -89,6 +98,12 @@ Built for the Dev.to Holistic Frontend Challenge
 Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on GitHub. 
 
 📁 [CS50x – Harvard Repo 🎓](https://github.com/VIDAKHOSHPEY22/cs50x)
+
+---
+
+## 🏢 Organizations & Collaborations
+
+Active contributor and member of **Gemoriel** organization with multiple private and public repositories showcasing collaborative development projects and organizational work.
 
 ---
 
