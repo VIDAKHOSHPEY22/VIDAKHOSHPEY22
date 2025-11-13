@@ -62,11 +62,13 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 | Category          | Tools / Libraries                                     |
 |-------------------|-------------------------------------------------------|
-| Back-end          | Django, Flask                                         |
-| Front-end         | React, Bootstrap, Alpine.js, jQuery                   |
-| UI & Animations   | Web Animations API, Canvas, Lottie                    |
-| Databases         | SQLite, PostgreSQL                                    |
-| Dev Tools         | Git, GitHub, Docker, VS Code, Netlify, Heroku        |
+| **Back-end**      | Django, Flask, Node.js                               |
+| **Front-end**     | React, Next.js, Bootstrap, Alpine.js, jQuery         |
+| **Styling**       | Tailwind CSS, Web Animations API, Canvas, Lottie     |
+| **Databases**     | SQLite, PostgreSQL, Supabase                         |
+| **DevOps & Deployment** | Git, GitHub, Docker, VS Code, Netlify, Heroku, Render |
+| **Email**         | Email service integration & configuration            |
+| **Domain Management** | Custom domain setup & DNS configuration            |
 
 ---
 
