@@ -103,25 +103,6 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 📁 [CS50x – Harvard Repo 🎓](https://github.com/VIDAKHOSHPEY22/cs50x)
 
----
-
-## 🏢 Organizations & Collaborations
-
-Active contributor and team member across multiple organizations:
-
-### 🔬 SmartTwinBKU
-**Focus:** Digital Twin technology, IoT solutions, and smart systems development
-🔗 [https://github.com/SmartTwinBKU](https://github.com/SmartTwinBKU)
-
-### 🎨 Q-Devnyx-Design  
-**Focus:** UI/UX design, frontend development, and creative digital solutions
-🔗 [https://github.com/Q-Devnyx-Design](https://github.com/Q-Devnyx-Design)
-
-### 💼 Gemoriel
-**Focus:** Full-stack development, web applications, and collaborative projects
-🔗 [https://github.com/Gemoriel](https://github.com/Gemoriel)
-
-*Explore my collaborative work and organizational projects through these GitHub organizations*
 
 ---
 
