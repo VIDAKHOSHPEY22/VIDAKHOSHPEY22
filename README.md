@@ -80,8 +80,7 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 → Deployed on Render with live domain
 → Private repository under Gemoriel organization
 
-🔗 [Live Demo](https://ready-aim-learn.onrender.com)
-🔗 [Repository](https://github.com/Gemoriel/Ready-Aim-Learn.git) *Private*
+🔗 [Live Demo](https://ready-aim-learn.com)
 
 ---
 
