@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Badge پروفایل ویو -->
+  <!-- Badge پروفایل  ویو -->
   <img src="https://komarev.com/ghpvc/?username=VIDAKHOSHPEY22&label=Profile%20Views&color=8e44ad&style=for-the-badge" alt="Profile views">
 </p>
 
@@ -24,7 +24,15 @@
   <em style="color: #8A2BE2; font-size: 18px;">Crafting clean, creative, and scalable digital experiences with heart & logic 💡</em>
 </p>
 
-![GitHub Profile Card](https://raw.githubusercontent.com/VIDAKHOSHPEY22/github-profile-stats-card/main/public/card.svg?v=25424688829)
+<!-- Fixed GitHub Profile Card with Fallback -->
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/github-profile-stats-card/main/public/card.svg?v=25424688829"
+    alt="GitHub Profile Card"
+    onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&theme=midnight-purple&bg_color=0D1117&border_color=8A2BE2&title_color=8A2BE2&icon_color=8A2BE2'"
+    style="max-width: 100%; height: auto;"
+  />
+</div>
 
 ---
 
