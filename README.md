@@ -204,15 +204,15 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=fff0f9&title_color=ab47bc&icon_color=ec407a&text_color=6a1b9a&cache_bust=1" alt="Total GitHub Stats" style="height: 170px; border-radius: 15px; box-shadow: 0 4px 8px rgba(138,43,226,0.2);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=1a0b1a&title_color=fb923c&icon_color=f472b6&text_color=fcd34d" alt="Total GitHub Stats" style="height: 170px; border-radius: 25px 5px 25px 5px; box-shadow: 5px 5px 20px rgba(251,146,60,0.3);" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=fff0f9&title_color=ab47bc&text_color=6a1b9a&cache_bust=1" alt="Top Languages" style="height: 170px; border-radius: 15px; box-shadow: 0 4px 8px rgba(138,43,226,0.2);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=1a0b1a&title_color=fb923c&text_color=fcd34d" alt="Top Languages" style="height: 170px; border-radius: 25px 5px 25px 5px; box-shadow: 5px 5px 20px rgba(251,146,60,0.3);" />
 
 </div>
 
 <div align="center" style="margin-top: 30px;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VIDAKHOSHPEY22&theme=pink-panda&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" style="height: 190px; border-radius: 15px; box-shadow: 0 4px 12px rgba(186,85,211,0.3);" />
+  <img src="https://streak-stats.demolab.com?user=VIDAKHOSHPEY22&theme=dark&hide_border=true&background=1a0b1a&ring=fb923c&fire=f472b6&currStreakLabel=fb923c" alt="GitHub Streak Stats" style="height: 190px; border-radius: 25px 5px 25px 5px; box-shadow: 5px 5px 25px rgba(251,146,60,0.4);" />
 
 </div>
 
