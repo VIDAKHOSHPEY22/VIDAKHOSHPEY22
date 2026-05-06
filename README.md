@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Badge پروفایل  ویو -->
+  <!-- Badge پروفایل ویو -->
   <img src="https://komarev.com/ghpvc/?username=VIDAKHOSHPEY22&label=Profile%20Views&color=8e44ad&style=for-the-badge" alt="Profile views">
 </p>
 
@@ -24,13 +24,12 @@
   <em style="color: #8A2BE2; font-size: 18px;">Crafting clean, creative, and scalable digital experiences with heart & logic 💡</em>
 </p>
 
-<!-- Fixed GitHub Profile Card with Fallback -->
+<!-- Your Working GitHub Profile Card -->
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/github-profile-stats-card/main/public/card.svg?v=25424688829"
-    alt="GitHub Profile Card"
-    onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&theme=midnight-purple&bg_color=0D1117&border_color=8A2BE2&title_color=8A2BE2&icon_color=8A2BE2'"
-    style="max-width: 100%; height: auto;"
+    src="https://kgnio-profile-card.vercel.app/api/card?user=VIDAKHOSHPEY22&theme=cupcake"
+    alt="VIDAKHOSHPEY22's GitHub Profile Card"
+    style="max-width: 100%; height: auto; border-radius: 16px;"
   />
 </div>
 
@@ -40,17 +39,29 @@
 Passionate full-stack developer who believes code is not just syntax but storytelling. I blend creativity and logic to build meaningful digital experiences.
 
 ---
-<h2 align="center" style="color:#d63031;">
-  💫 Ranked among the best GitHub Coders in 🇮🇷 Iran
+<h2 align="center">
+  <span style="color:#d63031; font-size: 2.2em;">🏆 Ranked #19 among the best GitHub Coders in 🇮🇷 Iran</span>
 </h2>
 
 <p align="center">
   <a href="https://committers.top/iran" target="_blank">
     <img src="https://user-badge.committers.top/iran/VIDAKHOSHPEY22.svg" 
-         alt="Top GitHub Contributor in Iran" 
-         width="160" 
-         style="vertical-align: middle;" />
+         alt="Top GitHub Contributor in Iran - Rank 19" 
+         width="180" 
+         style="vertical-align: middle; transition: transform 0.3s ease;"
+         onmouseover="this.style.transform='scale(1.05)'"
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/contributions-1٬372-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="1,372 contributions">
+  <img src="https://img.shields.io/badge/rank-19th-FFD700?style=for-the-badge&logo=trophy&logoColor=white" alt="Rank 19th">
+  <img src="https://img.shields.io/badge/updated-2026-06a3f0?style=for-the-badge&logo=calendar&logoColor=white" alt="Updated 2026">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FFD700&center=true&width=350&lines=Top+0.04%25+globally;Among+53%2C186+developers;1%2C372+contributions" alt="Ranking stats">
 </p>
 
 ---
@@ -189,25 +200,47 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats 
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=fff0f9&title_color=ab47bc&icon_color=ec407a&text_color=6a1b9a&cache_bust=1" alt="Total GitHub Stats" style="height: 170px; border-radius: 15px; box-shadow: 0 4px 8px rgba(138,43,226,0.2);" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF69B4&text_color=C0C0C0&cache_seconds=3600" 
+    alt="Total GitHub Stats" 
+    width="400"
+    style="border-radius: 16px; box-shadow: 0 8px 20px rgba(138,43,226,0.3);" 
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=fff0f9&title_color=ab47bc&text_color=6a1b9a&cache_bust=1" alt="Top Languages" style="height: 170px; border-radius: 15px; box-shadow: 0 4px 8px rgba(138,43,226,0.2);" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C0C0C0&cache_seconds=3600" 
+    alt="Top Languages" 
+    width="350"
+    style="border-radius: 16px; box-shadow: 0 8px 20px rgba(138,43,226,0.3);" 
+  />
 
 </div>
 
 <div align="center" style="margin-top: 30px;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VIDAKHOSHPEY22&theme=pink-panda&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" style="height: 190px; border-radius: 15px; box-shadow: 0 4px 12px rgba(186,85,211,0.3);" />
+  <img 
+    src="https://streak-stats.demolab.com?user=VIDAKHOSHPEY22&theme=dark&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakLabel=8A2BE2&sideLabels=C0C0C0" 
+    alt="GitHub Streak Stats" 
+    width="500"
+    style="border-radius: 16px; box-shadow: 0 8px 25px rgba(186,85,211,0.4);" 
+  />
 
 </div>
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=VIDAKHOSHPEY22&theme=gruvbox&no-bg=true&no-frame=true&margin-w=10&column=6&title=MultiLanguage,Repositories,Commit,Stars,PullRequest,Issue)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center"> 
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=VIDAKHOSHPEY22&theme=darkhub&column=6&row=1"
+    alt="GitHub Trophies"
+    width="100%"
+    style="border-radius: 16px;" 
+  />
+</div>
 
 ---
 
