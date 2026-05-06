@@ -24,6 +24,8 @@
   <em style="color: #8A2BE2; font-size: 18px;">Crafting clean, creative, and scalable digital experiences with heart & logic 💡</em>
 </p>
 
+![GitHub Profile Card](https://raw.githubusercontent.com/VIDAKHOSHPEY22/github-profile-stats-card/main/public/card.svg?v=25424688829)
+
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me  
