@@ -200,36 +200,23 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 ---
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF69B4&text_color=C0C0C0&cache_seconds=3600" 
-    alt="Total GitHub Stats" 
-    width="400"
-    style="border-radius: 16px; box-shadow: 0 8px 20px rgba(138,43,226,0.3);" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=fff0f9&title_color=ab47bc&icon_color=ec407a&text_color=6a1b9a&cache_bust=1" alt="Total GitHub Stats" style="height: 170px; border-radius: 15px; box-shadow: 0 4px 8px rgba(138,43,226,0.2);" />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C0C0C0&cache_seconds=3600" 
-    alt="Top Languages" 
-    width="350"
-    style="border-radius: 16px; box-shadow: 0 8px 20px rgba(138,43,226,0.3);" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=fff0f9&title_color=ab47bc&text_color=6a1b9a&cache_bust=1" alt="Top Languages" style="height: 170px; border-radius: 15px; box-shadow: 0 4px 8px rgba(138,43,226,0.2);" />
 
 </div>
 
 <div align="center" style="margin-top: 30px;">
 
-  <img 
-    src="https://streak-stats.demolab.com?user=VIDAKHOSHPEY22&theme=dark&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF69B4&currStreakLabel=8A2BE2&sideLabels=C0C0C0" 
-    alt="GitHub Streak Stats" 
-    width="500"
-    style="border-radius: 16px; box-shadow: 0 8px 25px rgba(186,85,211,0.4);" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VIDAKHOSHPEY22&theme=pink-panda&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" style="height: 190px; border-radius: 15px; box-shadow: 0 4px 12px rgba(186,85,211,0.3);" />
 
 </div>
+
+---
 
 ## 🏆 GitHub Trophies
 
