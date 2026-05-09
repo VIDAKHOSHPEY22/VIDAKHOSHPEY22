@@ -294,3 +294,8 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
 </picture>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIDAKHOSHPEY22&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
