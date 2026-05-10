@@ -21,6 +21,10 @@
 </div>
 
 <p align="center">
+  <img src="https://github.com/0xPacman/0xPacman/blob/master/spin.gif" alt="loading..." />
+</p>
+
+<p align="center">
   <em style="color: #8A2BE2; font-size: 18px;">Crafting clean, creative, and scalable digital experiences with heart & logic 💡</em>
 </p>
 
