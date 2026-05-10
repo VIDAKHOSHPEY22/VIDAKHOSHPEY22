@@ -204,20 +204,34 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center" style="margin-top: 40px; margin-bottom: 30px;">
+  <font size="7">
+    <b>
+      <span style="background: linear-gradient(120deg, #DA70D6, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">
+        📈 GitHub Stats
+      </span>
+    </b>
+  </font>
+</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+<!-- ردیف اول: سه کارت اصلی در یک ردیف -->
+<table border="0" cellpadding="15" cellspacing="15" align="center">
+  <tr>
+    <td align="center" style="border-radius: 24px; background: linear-gradient(135deg, #1e1039, #0a0612); padding: 15px; box-shadow: 0 10px 30px rgba(218,112,214,0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&theme=radical&hide_border=true&title_color=DA70D6&icon_color=FF69B4&text_color=C8A2C8&bg_color=0d1117&ring_color=BA55D3&border_radius=18" width="330"/>
+    </td>
+    <td align="center" style="border-radius: 24px; background: linear-gradient(135deg, #1e1039, #0a0612); padding: 15px; box-shadow: 0 10px 30px rgba(218,112,214,0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://streak-stats.demolab.com?user=VIDAKHOSHPEY22&theme=radical&hide_border=true&ring=DA70D6&fire=FF69B4&currStreakNum=E6E6FA&currStreakLabel=DA70D6&sideNums=C8A2C8&sideLabels=BA55D3&dates=A9C9FF&background=0d1117" width="370"/>
+    </td>
+    <td align="center" style="border-radius: 24px; background: linear-gradient(135deg, #1e1039, #0a0612); padding: 15px; box-shadow: 0 10px 30px rgba(218,112,214,0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&theme=radical&hide_border=true&layout=compact&title_color=DA70D6&text_color=C8A2C8&bg_color=0d1117&border_radius=18" width="300"/>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&hide_border=true&bg_color=1a0b1a&title_color=fb923c&icon_color=f472b6&text_color=fcd34d" alt="Total GitHub Stats" style="height: 170px; border-radius: 25px 5px 25px 5px; box-shadow: 5px 5px 20px rgba(251,146,60,0.3);" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&layout=compact&hide_border=true&bg_color=1a0b1a&title_color=fb923c&text_color=fcd34d" alt="Top Languages" style="height: 170px; border-radius: 25px 5px 25px 5px; box-shadow: 5px 5px 20px rgba(251,146,60,0.3);" />
-
-</div>
-
+<!-- دکوریشن پایین (بدون تکرار) -->
 <div align="center" style="margin-top: 30px;">
-
-  <img src="https://streak-stats.demolab.com?user=VIDAKHOSHPEY22&theme=dark&hide_border=true&background=1a0b1a&ring=fb923c&fire=f472b6&currStreakLabel=fb923c" alt="GitHub Streak Stats" style="height: 190px; border-radius: 25px 5px 25px 5px; box-shadow: 5px 5px 25px rgba(251,146,60,0.4);" />
-
+  <img src="https://custom-icon-badges.demolab.com/badge/-✨%20VIDAKHOSHPEY22%20✨-1e1039?style=for-the-badge&logo=github&logoColor=DA70D6&labelColor=0a0612&color=DA70D6" alt="VIDAKHOSHPEY22">
 </div>
 
 ---
