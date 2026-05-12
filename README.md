@@ -60,7 +60,7 @@ Passionate full-stack developer who believes code is not just syntax but storyte
 
 <p align="center">
   <img src="https://img.shields.io/badge/contributions-1٬372-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="1,372 contributions">
-  <img src="https://img.shields.io/badge/rank-19th-FFD700?style=for-the-badge&logo=trophy&logoColor=white" alt="Rank 16th">
+  <img src="https://img.shields.io/badge/rank-16th-FFD700?style=for-the-badge&logo=trophy&logoColor=white" alt="Rank 16th">
   <img src="https://img.shields.io/badge/updated-2026-06a3f0?style=for-the-badge&logo=calendar&logoColor=white" alt="Updated 2026">
 </p>
 
