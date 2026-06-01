@@ -28,13 +28,51 @@
   <em style="color: #8A2BE2; font-size: 18px;">Crafting clean, creative, and scalable digital experiences with heart & logic 💡</em>
 </p>
 
-<!-- Your Working GitHub Profile Card -->
 <div align="center">
-  <img 
-    src="https://kgnio-profile-card.vercel.app/api/card?user=VIDAKHOSHPEY22&theme=cupcake"
-    alt="VIDAKHOSHPEY22's GitHub Profile Card"
-    style="max-width: 100%; height: auto; border-radius: 16px;"
-  />
+  <h3>📊 GitHub Stats</h3>
+  
+<div align="center">
+  
+  <!-- My Custom Languages Card -->
+  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
+    <img 
+      src="https://github-languages-card.vercel.app/api/top-languages?username=VIDAKHOSHPEY22&theme=pink"
+      alt="GitHub Languages Card - Created by VIDAKHOSHPEY22"
+      width="500"
+      style="border-radius: 20px;"
+    />
+  </a>
+  
+  <br><br>
+  
+  <!-- Promotion -->
+  <div style="background: linear-gradient(135deg, #ff6b9d, #8b5cf6); padding: 10px 20px; border-radius: 40px; display: inline-block;">
+    <strong style="color: white;">✨ Built by VIDAKHOSHPEY22 with LangCard ✨</strong>
+  </div>
+  
+  <br><br>
+  
+  <!-- Get Your Own -->
+  <div>
+    <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
+      <img src="https://img.shields.io/badge/Get_Your_Own_LangCard-000?style=for-the-badge&logo=github" alt="Get LangCard">
+    </a>
+    <a href="https://github-languages-card.vercel.app">
+      <img src="https://img.shields.io/badge/Live_Demo-ff6b9d?style=for-the-badge&logo=vercel" alt="Live Demo">
+    </a>
+  </div>
+  
+  <br>
+  
+  <!-- Code -->
+  <div style="background: #0a0a0a; padding: 12px; border-radius: 12px; max-width: 500px;">
+    <code>![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=YOUR_USERNAME&theme=pink)</code>
+  </div>
+  
+  <br>
+  
+  <sub>🎨 18+ themes | ⚡ Real-time | 🚀 Open Source</sub>
+  
 </div>
 
 ---
