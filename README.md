@@ -11,7 +11,7 @@
 
 <br><br>
 
-<a href="https://github.com/settings/profile">
+<a href="https://docs.github.com/en/integrations/concepts/github-developer-program">
   <img src="https://img.shields.io/badge/GitHub-Developer_Program-0d1117?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
 </a>
 
