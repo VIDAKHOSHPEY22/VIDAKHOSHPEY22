@@ -1,7 +1,15 @@
-<p align="center">
-  <!-- Badge پروفایل ویو -->
-  <img src="https://komarev.com/ghpvc/?username=VIDAKHOSHPEY22&label=Profile%20Views&color=8e44ad&style=for-the-badge" alt="Profile views">
-</p>
+## ⚡ Dev Summary
+<a name="top"></a>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=VIDAKHOSHPEY22&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/VIDAKHOSHPEY22?style=for-the-badge&color=8A2BE2"/>
+
+<img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22?style=for-the-badge&color=FF69B4"/>
+
+</div>
 
 ---
 
@@ -217,8 +225,6 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 ---
 
-# 💜 GitHub Stats
-
 <h2 align="center" style="margin-top: 40px; margin-bottom: 30px;">
   <font size="7">
     <b>
@@ -229,39 +235,42 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
   </font>
 </h2>
 
-<!-- ردیف اول: سه کارت اصلی در یک ردیف -->
-<table border="0" cellpadding="15" cellspacing="15" align="center">
-  <tr>
-    <td align="center" style="border-radius: 24px; background: linear-gradient(135deg, #1e1039, #0a0612); padding: 15px; box-shadow: 0 10px 30px rgba(218,112,214,0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&theme=radical&hide_border=true&title_color=DA70D6&icon_color=FF69B4&text_color=C8A2C8&bg_color=0d1117&ring_color=BA55D3&border_radius=18" width="330"/>
-    </td>
-    <td align="center" style="border-radius: 24px; background: linear-gradient(135deg, #1e1039, #0a0612); padding: 15px; box-shadow: 0 10px 30px rgba(218,112,214,0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://streak-stats.demolab.com?user=VIDAKHOSHPEY22&theme=radical&hide_border=true&ring=DA70D6&fire=FF69B4&currStreakNum=E6E6FA&currStreakLabel=DA70D6&sideNums=C8A2C8&sideLabels=BA55D3&dates=A9C9FF&background=0d1117" width="370"/>
-    </td>
-    <td align="center" style="border-radius: 24px; background: linear-gradient(135deg, #1e1039, #0a0612); padding: 15px; box-shadow: 0 10px 30px rgba(218,112,214,0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&theme=radical&hide_border=true&layout=compact&title_color=DA70D6&text_color=C8A2C8&bg_color=0d1117&border_radius=18" width="300"/>
-    </td>
-  </tr>
-</table>
+<!-- STACKED + CENTERED + BIGGER -->
 
-<!-- دکوریشن پایین (بدون تکرار) -->
-<div align="center" style="margin-top: 30px;">
-  <img src="https://custom-icon-badges.demolab.com/badge/-✨%20VIDAKHOSHPEY22%20✨-1e1039?style=for-the-badge&logo=github&logoColor=DA70D6&labelColor=0a0612&color=DA70D6" alt="VIDAKHOSHPEY22">
+<div align="center">
+
+  <div style="margin-bottom: 30px;">
+    <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&theme=radical&hide_border=true&title_color=DA70D6&icon_color=FF69B4&text_color=C8A2C8&bg_color=0d1117&ring_color=BA55D3&border_radius=18"
+      width="520"
+    />
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <img 
+      src="https://streak-stats.demolab.com?user=VIDAKHOSHPEY22&theme=radical&hide_border=true&ring=DA70D6&fire=FF69B4&currStreakNum=E6E6FA&currStreakLabel=DA70D6&sideNums=C8A2C8&sideLabels=BA55D3&dates=A9C9FF&background=0d1117"
+      width="520"
+    />
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&theme=radical&hide_border=true&layout=compact&title_color=DA70D6&text_color=C8A2C8&bg_color=0d1117&border_radius=18"
+      width="420"
+    />
+  </div>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Contribution Activity
 
-<div align="center"> 
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=VIDAKHOSHPEY22&theme=darkhub&column=6&row=1"
-    alt="GitHub Trophies"
-    width="100%"
-    style="border-radius: 16px;" 
-  />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIDAKHOSHPEY22&theme=react-dark&hide_border=true" width="900"/>
+
 </div>
-
 
 ---
 
@@ -328,8 +337,15 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg">
 </picture>
 
-## 📊 GitHub Analytics
+---
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIDAKHOSHPEY22&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
+<a href="#top">
+  <img src="https://img.shields.io/badge/⬆️%20BACK%20TO%20TOP%20⬆️-FF69B4?style=for-the-badge&labelColor=0d1117&color=8A2BE2&logo=rocket&logoColor=white" />
+</a>
+
+<br><br>
+
+<sub>Thanks for visiting ⚡</sub>
+
+</div>
