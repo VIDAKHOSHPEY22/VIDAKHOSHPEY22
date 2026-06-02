@@ -29,82 +29,57 @@
 </p>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  
-<div align="center">
-  
-  <!-- My Custom Languages Card -->
-  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-    <img 
-      src="https://github-languages-card.vercel.app/api/top-languages?username=VIDAKHOSHPEY22&theme=pink"
-      alt="GitHub Languages Card - Created by VIDAKHOSHPEY22"
-      width="500"
-      style="border-radius: 20px;"
-    />
-  </a>
-  
-  <br><br>
-  
-  <!-- Promotion -->
-  <div style="background: linear-gradient(135deg, #ff6b9d, #8b5cf6); padding: 10px 20px; border-radius: 40px; display: inline-block;">
-    <strong style="color: white;">✨ Built by VIDAKHOSHPEY22 with LangCard ✨</strong>
-  </div>
-  
-  <br><br>
-  
-  <!-- Get Your Own -->
-  <div>
-    <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-      <img src="https://img.shields.io/badge/Get_Your_Own_LangCard-000?style=for-the-badge&logo=github" alt="Get LangCard">
-    </a>
-    <a href="https://github-languages-card.vercel.app">
-      <img src="https://img.shields.io/badge/Live_Demo-ff6b9d?style=for-the-badge&logo=vercel" alt="Live Demo">
-    </a>
-  </div>
-  
-  <br>
-  
-  <!-- Code -->
-  <div style="background: #0a0a0a; padding: 12px; border-radius: 12px; max-width: 500px;">
-    <code>![GitHub Languages](https://github-languages-card.vercel.app/api/top-languages?username=YOUR_USERNAME&theme=pink)</code>
-  </div>
-  
-  <br>
-  
-  <sub>🎨 18+ themes | ⚡ Real-time | 🚀 Open Source</sub>
-  
+
+# ⚡ GitHub Language Analytics
+
+<img
+  src="https://github-languages-card.vercel.app/api/top-languages?username=VIDAKHOSHPEY22&theme=darkNeon"
+  width="700"
+/>
+
+<br><br>
+
+⭐ If you like this card, consider giving the repository a star.
+
+<br>
+
+<a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
+  <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22/github-languages-card?style=for-the-badge" />
+</a>
+
+<a href="https://github-languages-card.vercel.app">
+  <img src="https://img.shields.io/badge/Try_It_Now-000000?style=for-the-badge&logo=vercel" />
+</a>
+
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me  
-Passionate full-stack developer who believes code is not just syntax but storytelling. I blend creativity and logic to build meaningful digital experiences.
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
+
+Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages Card
 
 ---
-<h2 align="center">
-  <span style="color:#d63031; font-size: 2.2em;">🏆 Ranked #16 among the best GitHub Coders in 🇮🇷 Iran</span>
-</h2>
 
-<p align="center">
-  <a href="https://committers.top/iran" target="_blank">
-    <img src="https://user-badge.committers.top/iran/VIDAKHOSHPEY22.svg" 
-         alt="Top GitHub Contributor in Iran - Rank 16" 
-         width="180" 
-         style="vertical-align: middle; transition: transform 0.3s ease;"
-         onmouseover="this.style.transform='scale(1.05)'"
-         onmouseout="this.style.transform='scale(1)'" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/contributions-1٬372-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="1,372 contributions">
-  <img src="https://img.shields.io/badge/rank-16th-FFD700?style=for-the-badge&logo=trophy&logoColor=white" alt="Rank 16th">
-  <img src="https://img.shields.io/badge/updated-2026-06a3f0?style=for-the-badge&logo=calendar&logoColor=white" alt="Updated 2026">
-</p>
+### 🏆 Ranked #16 in Iran
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FFD700&center=true&width=350&lines=Top+0.04%25+globally;Among+53%2C186+developers;1%2C372+contributions" alt="Ranking stats">
-</p>
+<a href="https://committers.top/iran">
+  <img src="https://user-badge.committers.top/iran/VIDAKHOSHPEY22.svg" width="240" />
+</a>
+
+<br><br>
+
+![Rank](https://img.shields.io/badge/Rank-16th-FFD700?style=for-the-badge&logo=trophy)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-8A2BE2?style=for-the-badge&logo=github)
+![Builder](https://img.shields.io/badge/Developer_Tools-Creator-00C2FF?style=for-the-badge)
+
+<br>
+
+<sub>Building products that developers love to use ⚡</sub>
+
+</div>
 
 ---
 
@@ -242,6 +217,8 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 
 ---
 
+# 💜 GitHub Stats
+
 <h2 align="center" style="margin-top: 40px; margin-bottom: 30px;">
   <font size="7">
     <b>
@@ -284,6 +261,7 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
     style="border-radius: 16px;" 
   />
 </div>
+
 
 ---
 
