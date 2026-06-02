@@ -90,31 +90,40 @@ Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages
 </div>
 
 ---
+## 💻 Technical Expertise
 
-## 💻 Technical Skills
+<div align="center">
 
-| Language       | Main Usage                            | Proficiency         |
-|----------------|----------------------------------------|---------------------|
-| Python 🐍      | Web APIs, automation, AI/ML            | ⭐⭐⭐⭐☆ (Advanced)    |
-| JavaScript ✨  | Dynamic interfaces, SPA logic          | ⭐⭐⭐⭐☆ (Advanced)    |
-| HTML5 🧱       | Semantic markup, accessibility         | ⭐⭐⭐⭐⭐ (Expert)      |
-| CSS3 🎨        | Responsive design, animations          | ⭐⭐⭐⭐☆ (Advanced)    |
-| C 🧠           | Algorithms, CS50 foundations           | ⭐⭐⭐☆☆ (Intermediate)|
-| SQL 🗃️        | Data modeling, query optimization      | ⭐⭐⭐☆☆ (Intermediate)|
+### 🧠 Core Languages
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=8A2BE2)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=FF69B4)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=C8A2C8)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=A9C9FF)
 
 ---
 
-## 🧰 Frameworks & Tools
+### ⚙️ Frameworks & Engineering
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=8A2BE2)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=FF69B4)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=C8A2C8)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=A9C9FF)
 
-| Category          | Tools / Libraries                                     |
-|-------------------|-------------------------------------------------------|
-| **Back-end**      | Django, Flask, Node.js                               |
-| **Front-end**     | React, Next.js, Bootstrap, Alpine.js, jQuery         |
-| **Styling**       | Tailwind CSS, Web Animations API, Canvas, Lottie     |
-| **Databases**     | SQLite, PostgreSQL, Supabase                         |
-| **DevOps & Deployment** | Git, GitHub, Docker, VS Code, Netlify, Heroku, Render |
-| **Email**         | Email service integration & configuration            |
-| **Domain Management** | Custom domain setup & DNS configuration            |
+---
+
+### 🗄️ Data & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=8A2BE2)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=FF69B4)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=C8A2C8)
+
+---
+
+### 🚀 Deployment & Tools
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=A9C9FF)
+![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=8A2BE2)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FF69B4)
+
+</div>
+
 
 ---
 
@@ -301,33 +310,57 @@ Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on G
 </div>
 
 ---
-
 ## 💖 Support My Work
 
-> GitHub Sponsors is not available in Iran yet. Here are alternative ways to support me:
+> If my projects help you, you can support me below.
+
+---
 
 <div align="center">
 
-| <span style="font-size:1.2em"> </span> | Currency | Wallet / Card Number |
-|:---:|:---|:---|
-| 💳 | **BluBank (Iran)** | `6219‑8619‑9870‑5742`<br/>*Vida Khoshpey - Bank Saman* |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tether.svg" width="28"> | **USDT (TRC20)** | `TBC28jbxtBGytLQdVZjJmf73ULJunvTghT` |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bitcoin.svg" width="28"> | **Bitcoin (BTC)** | `bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf` |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ethereum.svg" width="28"> | **Ethereum (ETH)** | `0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795` |
+## 💳 Banking Support
+
+**BluBank (Saman Bank - Iran)**  
+`6219-8619-9870-5742`  
+<sub>Vida Khoshpey</sub>
+
+<br><br>
+
+## ₿ Crypto Support
+
+![USDT](https://img.shields.io/badge/USDT-TRC20-26A17B?style=for-the-badge&logo=tether&logoColor=white)  
+`TBC28jbxtBGytLQdVZjJmf73ULJunvTghT`
+
+<br>
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)  
+`bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf`
+
+<br>
+
+![Ethereum](https://img.shields.io/badge/Ethereum-ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
+`0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795`
+
+---
+
+<br>
+
+## 📲 Quick Transfer
+
+<img src="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/main/BluBank_User_QR_1404_4_14_150802.jpg?raw=true" width="220"/>
+
+<br>
+
+<sub>Scan QR for instant transfer</sub>
+
+---
+
+<br>
+
+💜 <sub>Your support directly helps maintain and improve open-source projects.</sub>
 
 </div>
 
-<div align="center">
-  <img src="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/ccd57e0c0e95d523d1ecc01265392c31d77cf3ba/BluBank_User_QR_1404_4_14_150802.jpg?raw=true" width="140" />
-  <br/>
-  <sub>Scan QR for BluBank transfer</sub>
-</div>
-
-<br/>
-
-<p align="center">
-  <strong>🙏 Your support fuels my open-source journey!</strong>
-</p>
 
 ## 👾 Pacman Maze 
 
