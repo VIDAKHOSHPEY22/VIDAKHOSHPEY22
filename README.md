@@ -9,6 +9,12 @@
 
 <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22?style=for-the-badge&color=FF69B4"/>
 
+<br><br>
+
+<a href="https://github.com/settings/profile">
+  <img src="https://img.shields.io/badge/GitHub-Developer_Program-0d1117?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
+</a>
+
 </div>
 
 ---
