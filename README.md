@@ -1,15 +1,11 @@
-## ⚡ Dev Summary
-<a name="top"></a>
-
 <div align="center">
+<a name="top"></a>
 
 <img src="https://komarev.com/ghpvc/?username=VIDAKHOSHPEY22&style=for-the-badge&color=6D28D9"/>
 
 <img src="https://img.shields.io/github/followers/VIDAKHOSHPEY22?style=for-the-badge&color=6D28D9&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22?style=for-the-badge&color=6D28D9&logo=github&logoColor=white"/>
-
-<br><br>
 
 <a href="https://docs.github.com/en/developers/overview/github-developer-program">
   <img src="https://img.shields.io/badge/Open%20Source-GitHub%20Developer-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Open Source GitHub Developer">
@@ -84,19 +80,15 @@ Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages
 
 <div align="center">
 
-### 🏆 Ranked #16 in Iran
+### 🏆 Open Source Activity
 
 <a href="https://committers.top/iran">
   <img src="https://user-badge.committers.top/iran/VIDAKHOSHPEY22.svg" width="240" />
 </a>
 
-<br><br>
-
-![Rank](https://img.shields.io/badge/Rank-16th-FFD700?style=for-the-badge&logo=trophy)
-![Open Source](https://img.shields.io/badge/Open_Source-Contributor-8A2BE2?style=for-the-badge&logo=github)
-![Builder](https://img.shields.io/badge/Developer_Tools-Creator-00C2FF?style=for-the-badge)
-
-<br>
+<img src="https://img.shields.io/badge/Open_Source_Contributor-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Developer_Tools_Creator-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Building_Developer_Products-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
 
 <sub>Building products that developers love to use ⚡</sub>
 
