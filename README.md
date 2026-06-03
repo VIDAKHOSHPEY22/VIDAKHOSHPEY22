@@ -3,16 +3,16 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=VIDAKHOSHPEY22&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=VIDAKHOSHPEY22&style=for-the-badge&color=6D28D9"/>
 
-<img src="https://img.shields.io/github/followers/VIDAKHOSHPEY22?style=for-the-badge&color=8A2BE2"/>
+<img src="https://img.shields.io/github/followers/VIDAKHOSHPEY22?style=for-the-badge&color=6D28D9&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22?style=for-the-badge&color=FF69B4"/>
+<img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22?style=for-the-badge&color=6D28D9&logo=github&logoColor=white"/>
 
 <br><br>
 
-<a href="https://docs.github.com/en/integrations/concepts/github-developer-program">
-  <img src="https://img.shields.io/badge/GitHub-Developer_Program-0d1117?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
+<a href="https://docs.github.com/en/developers/overview/github-developer-program">
+  <img src="https://img.shields.io/badge/Open%20Source-GitHub%20Developer-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Open Source GitHub Developer">
 </a>
 
 </div>
@@ -44,32 +44,39 @@
 
 <div align="center">
 
-# ⚡ GitHub Language Analytics
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28"> GitHub Languages Card
 
-<img
-  src="https://github-languages-card.vercel.app/api/top-languages?username=VIDAKHOSHPEY22&theme=darkNeon"
-  width="700"
-/>
+<p align="center">
+  <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
+    <img
+      src="https://github-languages-card.vercel.app/api/top-languages?username=VIDAKHOSHPEY22&theme=darkNeon"
+      width="760"
+      alt="GitHub Languages Card"
+    />
+  </a>
+</p>
 
-<br><br>
+<p align="center">
+  <strong>Transform any GitHub profile into a clean, shareable language analytics card.</strong>
+  <br>
+  Built for README profiles, portfolios, developer showcases, and open-source communities.
+</p>
 
-⭐ If you like this card, consider giving the repository a star.
-
-<br>
+<p align="center">
 
 <a href="https://github.com/VIDAKHOSHPEY22/github-languages-card">
-  <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22/github-languages-card?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22/github-languages-card?style=for-the-badge&color=6D28D9&logo=github&logoColor=white" alt="GitHub Stars" />
 </a>
 
 <a href="https://github-languages-card.vercel.app">
-  <img src="https://img.shields.io/badge/Try_It_Now-000000?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
 
-</div>
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
+## 👩‍💻 About Me
 
 Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages Card
 
