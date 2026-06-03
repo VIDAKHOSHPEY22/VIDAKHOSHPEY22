@@ -99,68 +99,73 @@ Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages
 
 <div align="center">
 
-### 🧠 Core Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=8A2BE2)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=FF69B4)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=C8A2C8)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=A9C9FF)
+| **Languages** | **Frontend** | **Backend** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c" height="45"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="45"/> | <img src="https://skillicons.dev/icons?i=django,flask,nodejs" height="45"/> |
+| `Python` • `JS` • `TS` • `C++` • `C` | `React` • `Next.js` • `Tailwind` | `Django` • `Flask` • `Node.js` |
 
----
+| **Databases** | **AI & ML** | **IoT & Hardware** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,supabase" height="45"/> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="45"/> | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="45"/> |
+| `PostgreSQL` • `MySQL` • `SQLite` • `MongoDB` • `Supabase` | `PyTorch` • `TensorFlow` • `OpenCV` | `Arduino` • `Pi` • `ESP32` |
 
-### ⚙️ Frameworks & Engineering
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=8A2BE2)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=FF69B4)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=C8A2C8)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=A9C9FF)
-
----
-
-### 🗄️ Data & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=8A2BE2)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=FF69B4)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=C8A2C8)
-
----
-
-### 🚀 Deployment & Tools
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=A9C9FF)
-![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=8A2BE2)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FF69B4)
+| **DevOps & Cloud** | **Tools & IDEs** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,bash,vercel" height="45"/> | <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,figma" height="45"/> |
+| `Docker` • `Git` • `Actions` • `Linux` • `Bash` • `Vercel` | `VS Code` • `PyCharm` • `Postman` • `Figma` |
 
 </div>
 
+---
+
+# Featured Projects
 
 ---
 
-## ✨ Featured Projects
+### GitHub Languages Card
 
-### 🎯 Ready Aim Learn - Django Learning Platform
-**Tech:** Django · PostgreSQL · HTML · CSS · JavaScript
-→ Comprehensive learning platform built with Django
-→ Deployed on Render with live domain
-→ Private repository under Gemoriel organization
+`Python` `GitHub API` `Matplotlib`
 
-🔗 [Live Demo](https://ready-aim-learn.com)
+- Automatically generates **language statistics** for any GitHub repository
+- Creates **beautiful SVG language cards** for README files
+- Built with **GitHub API** and **Python data visualization**
 
----
-
-### 🌌 Nebula Works – 3D Space Admin Interface  
-Built for the Dev.to Holistic Frontend Challenge  
-→ Pure HTML, CSS, and Vanilla JS  
-→ 3D planets inspired by NASA visuals  
-→ No frameworks. Just code, cosmos & creativity 
-
-🔗 [Live Demo](https://vidakhoshpey22.github.io/Nebula-Works)
-🔗 [Nebula - Works Repo 🚀](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
-
+[`▶ Live Demo`](https://github-languages-card.vercel.app/)   [`📁 Repository`](https://github.com/VIDAKHOSHPEY22/github-languages-card)
 
 ---
 
-### 🎓 Harvard CS50 Series  
-**Tech:** C · Python · Django · Flask · JavaScript · SQL  
-Completed CS50x, CS50W, CS50P, and CS50AI — only CS50x is fully organized on GitHub. 
+### Ready Aim Learn - Django Learning Platform
 
-📁 [CS50x – Harvard Repo 🎓](https://github.com/VIDAKHOSHPEY22/cs50x)
+`Django` `PostgreSQL` `HTML/CSS` `JavaScript`
+
+- **Comprehensive learning platform** built with Django
+- Deployed on **Render** with live domain
+- **Private repository** under Gemoriel organization
+
+[`▶ Live Demo`](https://ready-aim-learn.com)
+
+---
+
+### Nebula Works – 3D Space Admin Interface
+
+`HTML` `CSS` `Vanilla JS`
+
+Built for the **Dev.to Holistic Frontend Challenge**
+
+- **3D planets** inspired by NASA visuals
+- **No frameworks** — just code, cosmos, and creativity
+
+[`▶ Live Demo`](https://vidakhoshpey22.github.io/Nebula-Works)   [`📁 Repository`](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
+
+---
+
+### Harvard CS50 Series
+
+`C` `Python` `Django` `Flask` `JavaScript` `SQL`
+
+Completed **CS50x**, **CS50W**, **CS50P**, and **CS50AI** — only CS50x is fully organized on GitHub.
+
+[`📁 CS50x Repository`](https://github.com/VIDAKHOSHPEY22/cs50x)
 
 
 ---
