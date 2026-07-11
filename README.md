@@ -122,6 +122,22 @@ Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages
 
 ---
 
+### Dumirror Software Company & Developer Community 
+
+`Next.js` `React` `TypeScript` `MongoDB` `Clerk` `Tailwind CSS`
+
+A modern community platform built for developers to **learn, collaborate, ask questions, and share knowledge**.
+
+- Founder and creator of **Dumirror**
+- Authentication with **Clerk** and OAuth
+- Community-driven Q&A system
+- Dedicated forum on a separate subdomain
+- Built and deployed despite regional infrastructure and service restrictions
+
+[`🌐 Website`](https://dumirror.com)   [`💬 Forum`](https://forum.dumirror.com) 
+
+---
+
 ### GitHub Languages Card
 
 `Python` `GitHub API` `Matplotlib`
@@ -130,11 +146,11 @@ Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages
 - Creates **beautiful SVG language cards** for README files
 - Built with **GitHub API** and **Python data visualization**
 
-[`▶ Live Demo`](https://github-languages-card.vercel.app/)   [`📁 Repository`](https://github.com/VIDAKHOSHPEY22/github-languages-card)
+[`▶ Live Demo`](https://github-languages-card.vercel.app/)   [`📁 Repository`](https://github.com/VIDAKHOSHPEY22/github-languages-card)
 
 ---
 
-### Ready Aim Learn - Django Learning Platform
+### Ready Aim Learn – Django Learning Platform
 
 `Django` `PostgreSQL` `HTML/CSS` `JavaScript`
 
@@ -155,7 +171,7 @@ Built for the **Dev.to Holistic Frontend Challenge**
 - **3D planets** inspired by NASA visuals
 - **No frameworks** — just code, cosmos, and creativity
 
-[`▶ Live Demo`](https://vidakhoshpey22.github.io/Nebula-Works)   [`📁 Repository`](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
+[`▶ Live Demo`](https://vidakhoshpey22.github.io/Nebula-Works)   [`📁 Repository`](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
 
 ---
 
@@ -166,7 +182,6 @@ Built for the **Dev.to Holistic Frontend Challenge**
 Completed **CS50x**, **CS50W**, **CS50P**, and **CS50AI** — only CS50x is fully organized on GitHub.
 
 [`📁 CS50x Repository`](https://github.com/VIDAKHOSHPEY22/cs50x)
-
 
 ---
 
