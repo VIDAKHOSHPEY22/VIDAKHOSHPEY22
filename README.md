@@ -323,55 +323,73 @@ Completed **CS50x**, **CS50W**, **CS50P**, and **CS50AI** — only CS50x is full
 ---
 ## 💖 Support My Work
 
-> If my projects help you, you can support me below.
+<div align="center">
+
+<a href="https://coffeebede.com/vidakhoshpey22" target="_blank" rel="noopener">
+  <img 
+    src="https://coffeebede.com/banner.svg?u=vidakhoshpey22&bg=ba6fdc&mbg=725840&cbg=f2a1cc" 
+    width="468" 
+    height="100" 
+    alt="برام یه قهوه بخر"
+    style="border-radius: 14px; box-shadow: 0 0 22px rgba(186, 111, 220, 0.55);"
+  />
+</a>
+
+<br><br>
+
+> *If my projects help you, you can support me below.* 💜
+
+</div>
 
 ---
 
 <div align="center">
 
-## 💳 Banking Support
+<table>
+<tr>
+<td align="center" width="50%">
 
-**BluBank (Saman Bank - Iran)**  
-`6219-8619-9870-5742`  
+### Bank Transfer
+
+**BluBank · Saman Bank**  
 <sub>Vida Khoshpey</sub>
 
-<br><br>
+<br>
 
-## ₿ Crypto Support
+`6219 8619 9870 5742`
 
-![USDT](https://img.shields.io/badge/USDT-TRC20-26A17B?style=for-the-badge&logo=tether&logoColor=white)  
-`TBC28jbxtBGytLQdVZjJmf73ULJunvTghT`
+</td>
+<td align="center" width="50%">
+
+### 📲 Quick Scan
+
+<img src="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/main/BluBank_User_QR_1404_4_14_150802.jpg?raw=true" width="150" style="border-radius: 12px; border: 2px solid #ba6fdc; box-shadow: 0 0 16px rgba(186, 111, 220, 0.5);"/>
+
+<sub>Scan to transfer</sub>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)  
-`bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf`
+### ₿ Crypto
 
-<br>
+| | Network | Address |
+|:--:|:--|:--|
+| ![USDT](https://img.shields.io/badge/-USDT-26A17B?style=flat-square&logo=tether&logoColor=white) | TRC20 | `TBC28jbxtBGytLQdVZjJmf73ULJunvTghT` |
+| ![BTC](https://img.shields.io/badge/-BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white) | Bitcoin | `bc1q99fjq70uggsyxf2npmpgzd40w3tx7mpxfgwnuf` |
+| ![ETH](https://img.shields.io/badge/-ETH-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | ERC20 | `0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795` |
 
-![Ethereum](https://img.shields.io/badge/Ethereum-ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
-`0x2F23eadfF52f67Fb9a7d5ed9f36E921cC164C795`
+</div>
 
 ---
 
-<br>
-
-## 📲 Quick Transfer
-
-<img src="https://github.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/blob/main/BluBank_User_QR_1404_4_14_150802.jpg?raw=true" width="220"/>
-
-<br>
-
-<sub>Scan QR for instant transfer</sub>
-
----
-
-<br>
+<div align="center">
 
 💜 <sub>Your support directly helps maintain and improve open-source projects.</sub>
 
 </div>
-
 
 ## 👾 Pacman Maze 
 
