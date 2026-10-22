@@ -30,9 +30,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&width=600&lines=%F0%9F%92%9E%20Hi%20%F0%9F%91%8B%2C%20I'm%20Vida;%F0%9F%92%BB%20Full-Stack%20Developer;%F0%9F%A4%96%20AI%20%26%20Web%20Enthusiast;%F0%9F%8E%80%20From%20Code%20to%20Creativity" alt="Typing Animation"/>
 </div>
 
-<p align="center">
-  <img src="https://github.com/0xPacman/0xPacman/blob/master/spin.gif" alt="loading..." />
-</p>
 
 <p align="center">
   <em style="color: #8A2BE2; font-size: 18px;">Crafting clean, creative, and scalable digital experiences with heart & logic 💡</em>
