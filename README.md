@@ -266,13 +266,11 @@ Completed **CS50x**, **CS50W**, **CS50P**, and **CS50AI** — only CS50x is full
   </font>
 </h2>
 
-<!-- STACKED + CENTERED + BIGGER -->
-
 <div align="center">
 
   <div style="margin-bottom: 30px;">
     <img 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&theme=radical&hide_border=true&title_color=DA70D6&icon_color=FF69B4&text_color=C8A2C8&bg_color=0d1117&ring_color=BA55D3&border_radius=18"
+      src="https://github-readme-stats.vercel.app/api?username=VIDAKHOSHPEY22&show_icons=true&theme=radical&hide_border=true&title_color=DA70D6&icon_color=FF69B4&text_color=C8A2C8&bg_color=0d1117&ring_color=BA55D3&border_radius=18"
       width="520"
     />
   </div>
@@ -286,22 +284,13 @@ Completed **CS50x**, **CS50W**, **CS50P**, and **CS50AI** — only CS50x is full
 
   <div style="margin-bottom: 30px;">
     <img 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&theme=radical&hide_border=true&layout=compact&title_color=DA70D6&text_color=C8A2C8&bg_color=0d1117&border_radius=18"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIDAKHOSHPEY22&theme=radical&hide_border=true&layout=compact&title_color=DA70D6&text_color=C8A2C8&bg_color=0d1117&border_radius=18"
       width="420"
     />
   </div>
 
 </div>
 
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIDAKHOSHPEY22&theme=react-dark&hide_border=true" width="900"/>
-
-</div>
 
 ---
 
