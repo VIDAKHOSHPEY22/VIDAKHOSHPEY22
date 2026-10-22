@@ -325,17 +325,7 @@ Completed **CS50x**, **CS50W**, **CS50P**, and **CS50AI** — only CS50x is full
 
 <div align="center">
 
-<a href="https://coffeebede.com/vidakhoshpey22" target="_blank" rel="noopener">
-  <img 
-    src="https://coffeebede.com/banner.svg?u=vidakhoshpey22&bg=ba6fdc&mbg=725840&cbg=f2a1cc" 
-    width="468" 
-    height="100" 
-    alt="برام یه قهوه بخر"
-    style="border-radius: 14px; box-shadow: 0 0 22px rgba(186, 111, 220, 0.55);"
-  />
-</a>
-
-<br><br>
+<a href="https://coffeebede.com/vidakhoshpey" target="_blank" rel="noopener"><img src="https://coffeebede.com/banner.svg?u=vidakhoshpey&bg=da91ee&mbg=966b45&cbg=dd3cc7" width="468" height="100" alt="برام یه قهوه بخر" /></a>
 
 > *If my projects help you, you can support me below.* 💜
 
