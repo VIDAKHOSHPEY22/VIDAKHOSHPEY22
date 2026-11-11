@@ -30,10 +30,56 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&width=600&lines=%F0%9F%92%9E%20Hi%20%F0%9F%91%8B%2C%20I'm%20Vida;%F0%9F%92%BB%20Full-Stack%20Developer;%F0%9F%A4%96%20AI%20%26%20Web%20Enthusiast;%F0%9F%8E%80%20From%20Code%20to%20Creativity" alt="Typing Animation"/>
 </div>
 
-
 <p align="center">
   <em style="color: #8A2BE2; font-size: 18px;">Crafting clean, creative, and scalable digital experiences with heart & logic 💡</em>
 </p>
+
+---
+
+<div align="center">
+
+## 🤖 Dumirror_Robo
+
+<p align="center">
+  <a href="https://github.com/VIDAKHOSHPEY22/Dumirror_Robo/releases/download/v1.1.0/Dumirror_Robo-1.1.0.zip">
+    <img src="https://img.shields.io/badge/⬇%20Download-Dumirror_Robo%20v1.1.0-8B5CF6?style=for-the-badge" alt="Download Dumirror_Robo v1.1.0"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>An open-source animated robot face library for SSD1306 128×64 OLED displays.</b>
+  <br>
+  Create expressive DIY companion robots with Arduino and compatible microcontrollers.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/Dumirror_Robo/4d8732357fca43e7da1d9d40e786dab11110a815/images/animations/sneeze.gif" alt="Dumirror_Robo sneeze animation" width="260"/>
+  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/Dumirror_Robo/4d8732357fca43e7da1d9d40e786dab11110a815/images/animations/heartbeat.gif" alt="Dumirror_Robo heartbeat animation" width="260"/>
+  <img src="https://raw.githubusercontent.com/VIDAKHOSHPEY22/Dumirror_Robo/4d8732357fca43e7da1d9d40e786dab11110a815/images/animations/blink.gif" alt="Dumirror_Robo blink animation" width="260"/>
+  <br>
+  <sub>Animated expressions, built frame by frame.</sub>
+</p>
+
+<p align="center">
+  <a href="https://VIDAKHOSHPEY22.github.io/Dumirror_Robo/">
+    <img src="https://img.shields.io/badge/Live%20Gallery-Explore%20the%20Faces-8B5CF6?style=for-the-badge" alt="Live Gallery"/>
+  </a>
+  <a href="https://youtu.be/25PJctTHJlc">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube" alt="YouTube Tutorial"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"/></a>
+  <img src="https://img.shields.io/badge/version-1.1.0-8B5CF6" alt="Version 1.1.0"/>
+  <img src="https://img.shields.io/badge/static%20faces-19-8B5CF6" alt="19 Static Faces"/>
+  <img src="https://img.shields.io/badge/animations-10-EC4899" alt="10 Animations"/>
+  <img src="https://img.shields.io/badge/architectures-AVR%20%7C%20ESP32%20%7C%20ESP8266%20%7C%20RP2040-00979D" alt="Supported Architectures"/>
+</p>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -66,6 +112,8 @@
 </a>
 
 </p>
+
+</div>
 
 ---
 
