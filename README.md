@@ -61,6 +61,15 @@
 </p>
 
 <p align="center">
+  <b>😍 Give your robot a personality  try the library today!</b>
+  <br>
+  19 faces · 10 animations · endless personality. Clone it, flash it, and bring your robot to life.
+</p>
+
+<p align="center">
+  <a href="https://github.com/VIDAKHOSHPEY22/Dumirror_Robo">
+    <img src="https://img.shields.io/badge/⭐%20View%20on%20GitHub-Dumirror_Robo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Dumirror_Robo on GitHub"/>
+  </a>
   <a href="https://VIDAKHOSHPEY22.github.io/Dumirror_Robo/">
     <img src="https://img.shields.io/badge/Live%20Gallery-Explore%20the%20Faces-8B5CF6?style=for-the-badge" alt="Live Gallery"/>
   </a>
