@@ -73,8 +73,8 @@
   <a href="https://VIDAKHOSHPEY22.github.io/Dumirror_Robo/">
     <img src="https://img.shields.io/badge/Live%20Gallery-Explore%20the%20Faces-8B5CF6?style=for-the-badge" alt="Live Gallery"/>
   </a>
-  <a href="https://youtu.be/25PJctTHJlc">
-    <img src="https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube" alt="YouTube Tutorial"/>
+  <a href="https://youtube.com/shorts/KHJu6yjl5UQ?si=UCTxdlIKvH-6HVmy">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20the%20Demo-red?style=for-the-badge&logo=youtube" alt="Watch the Demo on Youtube"/>
   </a>
 </p>
 
