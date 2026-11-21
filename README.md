@@ -177,6 +177,7 @@ Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages
 
 # Featured Projects
 
+---
 
 ### Dumirror — Software Company & Developer Community
 
@@ -191,9 +192,13 @@ A software company and developer community focused on building purposeful softwa
 - Dedicated developer forum on a separate subdomain
 - Software development and digital product initiatives
 
-<p>
-  <a href="https://dumirror.com"><img src="https://img.shields.io/badge/Visit%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website"></a>
-  <a href="https://forum.dumirror.com"><img src="https://img.shields.io/badge/Developer%20Forum-6366F1?style=for-the-badge&logo=discourse&logoColor=white" alt="Developer Forum"></a>
+<p align="left">
+  <a href="https://dumirror.com">
+    <img src="https://img.shields.io/badge/Visit%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6D28D9" alt="Visit Dumirror Website" />
+  </a>
+  <a href="https://forum.dumirror.com">
+    <img src="https://img.shields.io/badge/Developer%20Forum-8B5CF6?style=for-the-badge&logo=discourse&logoColor=white&labelColor=6D28D9" alt="Visit Developer Forum" />
+  </a>
 </p>
 
 ---
@@ -218,8 +223,10 @@ A full-featured learning management platform connecting students, instructors, a
 - Administrative tools for managing courses, users, registrations, and certificates
 - Discount campaigns and promotional offers for online courses
 
-<p>
-  <a href="https://dumirror.ir"><img src="https://img.shields.io/badge/Visit%20Academy-8B5CF6?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Visit Academy"></a>
+<p align="left">
+  <a href="https://dumirror.ir">
+    <img src="https://img.shields.io/badge/Visit%20Academy-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6D28D9" alt="Visit Dumirror Academy" />
+  </a>
 </p>
 
 ---
@@ -236,8 +243,10 @@ A comprehensive learning and booking platform developed with Django.
 - Deployed on Render with a live domain
 - Private repository under Gemoriel organization
 
-<p>
-  <a href="https://ready-aim-learn.com"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+<p align="left">
+  <a href="https://ready-aim-learn.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6D28D9" alt="Ready Aim Learn Live Demo" />
+  </a>
 </p>
 
 ---
@@ -252,9 +261,13 @@ An interactive space-themed interface built for the **Dev.to Holistic Frontend C
 - Space-inspired interface drawing on NASA imagery
 - Developed without frontend frameworks
 
-<p>
-  <a href="https://vidakhoshpey22.github.io/Nebula-Works"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
-  <a href="https://github.com/VIDAKHOSHPEY22/Nebula-Works"><img src="https://img.shields.io/badge/View%20Source-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"></a>
+<p align="left">
+  <a href="https://vidakhoshpey22.github.io/Nebula-Works">
+    <img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6D28D9" alt="Nebula Works Live Demo" />
+  </a>
+  <a href="https://github.com/VIDAKHOSHPEY22/Nebula-Works">
+    <img src="https://img.shields.io/badge/GitHub%20Repository-24292E?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Nebula Works Repository" />
+  </a>
 </p>
 
 ---
@@ -265,9 +278,12 @@ An interactive space-themed interface built for the **Dev.to Holistic Frontend C
 
 Completed **CS50x, CS50W, CS50P, and CS50AI**, covering computer science fundamentals, web development, Python programming, and artificial intelligence.
 
-<p>
-  <a href="https://github.com/VIDAKHOSHPEY22/cs50x"><img src="https://img.shields.io/badge/Explore%20CS50x-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="CS50x Repository"></a>
+<p align="left">
+  <a href="https://github.com/VIDAKHOSHPEY22/cs50x">
+    <img src="https://img.shields.io/badge/GitHub%20Repository-24292E?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="CS50x Repository" />
+  </a>
 </p>
+
 
 ---
 
