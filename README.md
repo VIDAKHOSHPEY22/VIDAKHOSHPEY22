@@ -175,7 +175,6 @@ Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages
 
 ---
 
-
 # Featured Projects
 
 ---
@@ -247,7 +246,89 @@ An interactive space-themed interface built for the **Dev.to Holistic Frontend C
 - Space-inspired interface drawing on NASA imagery
 - Developed without frontend frameworks
 
-[`▶ Live Demo`](https://vidakhoshpey22.github.io/Nebula-Works) · [`📁 Repository`](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
+[`▶ Live Demo`](https://vidakhoshpey22.github.io/Nebula-Works) · [`📁 Repository`](https://github.com/VIDAKHOSHPEY22/Nebula-
+# Featured Projects
+
+---
+
+### Dumirror — Software Company & Developer Community
+
+`Next.js` `React` `TypeScript` `MongoDB` `Clerk` `Tailwind CSS`
+
+A software company and developer community focused on building purposeful software and creating opportunities for developers to learn, collaborate, and share knowledge.
+
+- Founder and creator of Dumirror
+- Developer-focused community platform
+- Authentication with Clerk and OAuth
+- Community-driven Q&A system
+- Dedicated developer forum on a separate subdomain
+- Software development and digital product initiatives
+
+<p>
+  <a href="https://dumirror.com"><img src="https://img.shields.io/badge/Visit%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website"></a>
+  <a href="https://forum.dumirror.com"><img src="https://img.shields.io/badge/Developer%20Forum-6366F1?style=for-the-badge&logo=discourse&logoColor=white" alt="Developer Forum"></a>
+</p>
+
+---
+
+### Dumirror Academy — Online Learning Platform
+
+`Next.js` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Telegram Bot API`
+
+A full-featured learning management platform connecting students, instructors, and administrators through an integrated online education experience.
+
+- Founder and full-stack developer
+- Online and offline course management
+- Google OAuth authentication
+- Passwordless email login with verification codes
+- Phone number verification with OTP for account updates
+- Dedicated student, instructor, and admin dashboards
+- Telegram bot integration for automated notifications and updates
+- Telegram-based customer support
+- Built-in live chat for direct support on the website
+- Online and offline certificate generation, delivery, and verification
+- Payment integration and enrollment management
+- Administrative tools for managing courses, users, registrations, and certificates
+- Discount campaigns and promotional offers for online courses
+
+<p>
+  <a href="https://dumirror.ir"><img src="https://img.shields.io/badge/Visit%20Academy-8B5CF6?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Visit Academy"></a>
+</p>
+
+---
+
+### Ready Aim Learn — Django Learning Platform
+
+`Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript` `Stripe` `PayPal`
+
+A comprehensive learning and booking platform developed with Django.
+
+- Integrated Stripe and PayPal payment gateways
+- Course booking and learning management features
+- PostgreSQL database integration
+- Deployed on Render with a live domain
+- Private repository under Gemoriel organization
+
+<p>
+  <a href="https://ready-aim-learn.com"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+</p>
+
+---
+
+### Nebula Works — 3D Space Admin Interface
+
+`HTML` `CSS` `Vanilla JavaScript`
+
+An interactive space-themed interface built for the **Dev.to Holistic Frontend Challenge**.
+
+- Interactive 3D-inspired planetary visuals
+- Space-inspired interface drawing on NASA imagery
+- Developed without frontend frameworks
+
+<p>
+  <a href="https://vidakhoshpey22.github.io/Nebula-Works"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+  <a href="https://github.com/VIDAKHOSHPEY22/Nebula-Works"><img src="https://img.shields.io/badge/View%20Source-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"></a>
+</p>
 
 ---
 
@@ -257,7 +338,9 @@ An interactive space-themed interface built for the **Dev.to Holistic Frontend C
 
 Completed **CS50x, CS50W, CS50P, and CS50AI**, covering computer science fundamentals, web development, Python programming, and artificial intelligence.
 
-[`📁 CS50x Repository`](https://github.com/VIDAKHOSHPEY22/cs50x)
+<p>
+  <a href="https://github.com/VIDAKHOSHPEY22/cs50x"><img src="https://img.shields.io/badge/Explore%20CS50x-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="CS50x Repository"></a>
+</p>
 
 ---
 
