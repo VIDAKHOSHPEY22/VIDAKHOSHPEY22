@@ -175,60 +175,79 @@ Full-Stack Developer • Open Source Contributor • Creator of GitHub Languages
 
 ---
 
+
 # Featured Projects
 
 ---
 
-### Dumirror Software Company & Developer Community 
+### Dumirror — Software Company & Developer Community
 
 `Next.js` `React` `TypeScript` `MongoDB` `Clerk` `Tailwind CSS`
 
-A modern community platform built for developers to **learn, collaborate, ask questions, and share knowledge**.
+A software company and developer community focused on building purposeful software and creating opportunities for developers to learn, collaborate, and share knowledge.
 
-- Founder and creator of **Dumirror**
-- Authentication with **Clerk** and OAuth
+- Founder and creator of Dumirror
+- Developer-focused community platform
+- Authentication with Clerk and OAuth
 - Community-driven Q&A system
-- Dedicated forum on a separate subdomain
-- Built and deployed despite regional infrastructure and service restrictions
+- Dedicated developer forum on a separate subdomain
+- Software development and digital product initiatives
 
-[`🌐 Website`](https://dumirror.com)   [`💬 Forum`](https://forum.dumirror.com) 
-
----
-
-### GitHub Languages Card
-
-`Python` `GitHub API` `Matplotlib`
-
-- Automatically generates **language statistics** for any GitHub repository
-- Creates **beautiful SVG language cards** for README files
-- Built with **GitHub API** and **Python data visualization**
-
-[`▶ Live Demo`](https://github-languages-card.vercel.app/)   [`📁 Repository`](https://github.com/VIDAKHOSHPEY22/github-languages-card)
+[`🌐 Website`](https://dumirror.com) · [`💬 Forum`](https://forum.dumirror.com)
 
 ---
 
-### Ready Aim Learn – Django Learning Platform
+### Dumirror Academy — Online Learning Platform
 
-`Django` `PostgreSQL` `HTML/CSS` `JavaScript`
+`Next.js` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Telegram Bot API`
 
-- **Comprehensive learning platform** built with Django
-- Deployed on **Render** with live domain
-- **Private repository** under Gemoriel organization
+A full-featured learning management platform connecting students, instructors, and administrators through an integrated online education experience.
+
+- Founder and full-stack developer
+- Online and offline course management
+- Google OAuth authentication
+- Passwordless email login with verification codes
+- Phone number verification with OTP for account updates
+- Dedicated student, instructor, and admin dashboards
+- Telegram bot integration for automated notifications and updates
+- Telegram-based customer support
+- Built-in live chat for direct support on the website
+- Online and offline certificate generation, delivery, and verification
+- Payment integration and enrollment management
+- Administrative tools for managing courses, users, registrations, and certificates
+- Discount campaigns and promotional offers for online courses
+
+[`🎓 Website`](https://dumirror.ir)
+
+---
+
+### Ready Aim Learn — Django Learning Platform
+
+`Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript` `Stripe` `PayPal`
+
+A comprehensive learning and booking platform developed with Django.
+
+- Integrated Stripe and PayPal payment gateways
+- Course booking and learning management features
+- PostgreSQL database integration
+- Deployed on Render with a live domain
+- Private repository under Gemoriel organization
 
 [`▶ Live Demo`](https://ready-aim-learn.com)
 
 ---
 
-### Nebula Works – 3D Space Admin Interface
+### Nebula Works — 3D Space Admin Interface
 
-`HTML` `CSS` `Vanilla JS`
+`HTML` `CSS` `Vanilla JavaScript`
 
-Built for the **Dev.to Holistic Frontend Challenge**
+An interactive space-themed interface built for the **Dev.to Holistic Frontend Challenge**.
 
-- **3D planets** inspired by NASA visuals
-- **No frameworks** — just code, cosmos, and creativity
+- Interactive 3D-inspired planetary visuals
+- Space-inspired interface drawing on NASA imagery
+- Developed without frontend frameworks
 
-[`▶ Live Demo`](https://vidakhoshpey22.github.io/Nebula-Works)   [`📁 Repository`](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
+[`▶ Live Demo`](https://vidakhoshpey22.github.io/Nebula-Works) · [`📁 Repository`](https://github.com/VIDAKHOSHPEY22/Nebula-Works)
 
 ---
 
@@ -236,7 +255,7 @@ Built for the **Dev.to Holistic Frontend Challenge**
 
 `C` `Python` `Django` `Flask` `JavaScript` `SQL`
 
-Completed **CS50x**, **CS50W**, **CS50P**, and **CS50AI** — only CS50x is fully organized on GitHub.
+Completed **CS50x, CS50W, CS50P, and CS50AI**, covering computer science fundamentals, web development, Python programming, and artificial intelligence.
 
 [`📁 CS50x Repository`](https://github.com/VIDAKHOSHPEY22/cs50x)
 
